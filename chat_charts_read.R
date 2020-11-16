@@ -12,6 +12,8 @@ p_load(char = c( "tidyverse",
 
 # change to undo
 
+use_github(protocol = "https", auth_token= Sys.getenv("GITHUB_PAT"))
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~  Functions ----
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
