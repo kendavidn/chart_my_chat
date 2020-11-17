@@ -11,7 +11,7 @@ p_load(char = c( "tidyverse",
 ))
 
 
-# use_github(protocol = "https", auth_token= Sys.getenv("GITHUB_PAT"))
+use_github(protocol = "https", auth_token= Sys.getenv("GITHUB_PAT"))
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~  Functions ----
