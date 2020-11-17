@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Facebook Site Governance"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook Site Governance",
+      "timestamp_ms": 1269556341000,
+      "content": "We've proposed updates to our Privacy Policy and Statement of Rights and Responsibilities.  We encourage you to read through the updates and offer your comments by 12:00 am PDT on 04/03/10.  You can access them from the \"Documents\" tab on the Facebook Site Governance Page: http://www.facebook.com/fbsitegovernance?v=app_4949752878.\n\nIn the future, all notifications of proposed changes will come through the Facebook Site Governance Page.  To receive future updates to Facebook's site governance documents, become a fan of the Page.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook Site Governance",
+      "timestamp_ms": 1256849496000,
+      "content": "Facebook has proposed an updated privacy policy.  We encourage you to view the proposal and offer your comments at http://www.facebook.com/fbsitegovernance?v=app_4949752878 by 12:00 p.m. PST on 11/5/09.  For future policy updates, become a fan of the Facebook Site Governance Page.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook Site Governance",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "filtered_threads/facebooksitegovernance_mcdtxa81da"
+}

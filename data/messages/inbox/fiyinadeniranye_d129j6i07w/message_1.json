@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Fiyin Adeniranye"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fiyin Adeniranye",
+      "timestamp_ms": 1355772713243,
+      "content": "yo..I came across this app called find your crush and it actually showed my crushes :P, Check my wall..who are your crushes btw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fiyin Adeniranye",
+      "timestamp_ms": 1323720790395,
+      "content": "hello???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fiyin Adeniranye",
+      "timestamp_ms": 1323720326144,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fiyin Adeniranye",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fiyinadeniranye_d129j6i07w"
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Shriya Patnaik"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shriya Patnaik",
+      "timestamp_ms": 1560731419379,
+      "content": "Shriya is waiting for your response.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shriya Patnaik",
+      "timestamp_ms": 1560708944200,
+      "content": "Hello, I'm an incoming PhD student to The Graduate Institute and saw your ad for the room sublet. I'm really interested and would like to see the place, for a long-term lease ideally for a year. I would like to start in August or September 2019, for a one year period ideally. \n\n I'm in Geneva from June 19 to 23 and would like a tour of the place, if possible. Do let me know if we can discuss further!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shriya Patnaik",
+      "timestamp_ms": 1560708942386,
+      "content": "Shriya changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shriya Patnaik",
+      "timestamp_ms": 1560708941951,
+      "content": "Shriya named the group Shriya \u00c2\u00b7 Room in 2br apartment  June 15 to June 16.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shriya \u00c2\u00b7 Room in 2br apartment  June 15 to June 16",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/shriyaroomin2brapartmentjune15tojune16_potlc8fixa"
+}

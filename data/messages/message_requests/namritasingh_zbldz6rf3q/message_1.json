@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Namrita Singh"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Namrita Singh",
+      "timestamp_ms": 1562580978198,
+      "content": "Hello! I just saw your ad for the place in Grand Sacconex. Is it still available?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Namrita Singh",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/namritasingh_zbldz6rf3q"
+}

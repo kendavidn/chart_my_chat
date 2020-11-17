@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1563387400828,
+      "content": "Hola Kene.\nDon Danilo me est\u00c3\u00a1 preguntando por el material del colegio.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1541520843347,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1541485314315,
+      "content": "Hola David. Esto es realmente tan hermoso! Gracias por enviarlo. Me asegurar\u00c3\u00a9 de pasarlo a los chicos.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1540042167939,
+      "content": "Continuando con el proyecto de la cancha en Las Tizas, se coloc\u00c3\u00b3 una cancha de baskeball. \nQued\u00c3\u00b3 lindisima!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1540042089730,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t1.15752-0/q65/p480x480/44518031_2677979242427208_232098752775585792_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&_nc_tp=27&oh=6bd011f397e98b940010108f7e2b08d0&oe=5FA11A67",
+          "creation_timestamp": 1540042089
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1540042087317,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t1.15752-0/q65/p480x480/44376084_344124129711630_2322513435146846208_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&_nc_tp=27&oh=f366d94d912675a3bace51f9bc570b6a&oe=5F9E652F",
+          "creation_timestamp": 1540042086
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1540042047924,
+      "content": "Hola Kene\u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1530583961206,
+      "content": "Pr\u00c3\u00a1cticamente lo mismo que hac\u00c3\u00adamos con los Scouts.\nEstamos trabajando en un proyecto en el sector de Las Tizas, ah\u00c3\u00ad queremos hacer una cancha de f\u00c3\u00batbol 5 y de basketball.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1530583231702,
+      "content": "Ese es mi n\u00c3\u00bamero",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1530583224934,
+      "content": "50111193",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1530577498886,
+      "content": "Hola David. Ser\u00c3\u00ada un gusto tambi\u00c3\u00a9n. Qu\u00c3\u00a9 tipo de actividades arreglan ustedes? Cu\u00c3\u00a1ndo es el m\u00c3\u00a1s temprano que nos podr\u00c3\u00adamos juntar?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1530507515245,
+      "content": "Hola Kene saludos!\nAhora tengo un grupo independiente de J\u00c3\u00b3venes se llaman \"GOALS\" para nosotros ser\u00c3\u00a1 un gusto trabajar con ustedes.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1530507002885,
+      "content": "Hola David! Espero que estes bien. Ha sido mucho tiempo! He venido de nuevo a Costa Rica con NatGeo despues de una corta pausa. Estoy muy emocionado de regresar y oir como van las cosas. Llegue hace dos dias. Seremos dos grupos entonces yo estaria aqui un mes en total.  \n\nEl primer grupo llega a cuajil ma\u00c3\u00b1ana pero creo que empezamos proyectos el martes. \n\nTodavia estas a cargo de los scouts?Tenemos mucho inter\u00c3\u00a9s en juntarnos con ustedes para hacer algunas actividades como en 2016. Seria posible?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+      "timestamp_ms": 1493334770277,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eneas L\u00c3\u00b3pez Chavarr\u00c3\u00ada",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/eneaslopezchavarria_u2i5yg2izw"
+}

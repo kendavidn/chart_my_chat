@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Roli Ogisi"
+    },
+    {
+      "name": "Kachy Nwobi"
+    },
+    {
+      "name": "Pishikeni Stephen Tukura"
+    },
+    {
+      "name": "Helen Nwoyeocha"
+    },
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Lota Ofodile"
+    },
+    {
+      "name": "Kelechi Uzoukwu"
+    },
+    {
+      "name": "Nneoma Ubah"
+    },
+    {
+      "name": "Aham-neze Chidinma"
+    },
+    {
+      "name": "Chijioke Eke"
+    },
+    {
+      "name": "Emem Okoko"
+    },
+    {
+      "name": "Shekinah Somefun"
+    },
+    {
+      "name": "Oluyede Olajide"
+    },
+    {
+      "name": "Azuayi J Alaku"
+    },
+    {
+      "name": "Emmanuel Ahonkhai"
+    },
+    {
+      "name": "Chidera Ejeh"
+    },
+    {
+      "name": "Bolaji Oluyede"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emmanuel Ahonkhai",
+      "timestamp_ms": 1577652109225,
+      "content": "Emmanuel sent an attachment.",
+      "share": {
+        "link": "https://news.yahoo.com/were-people-events-made-internet-001845353.html"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Patrick Chukwu",
+      "timestamp_ms": 1574866449974,
+      "content": "Patrick Chukwu left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Patrick Chukwu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Pishikeni Stephen Tukura",
+      "timestamp_ms": 1574753374952,
+      "content": "Pishikeni sent a link.",
+      "share": {
+        "link": "https://www.change.org/p/the-national-assembly-of-the-federal-republic-of-nigeria-stop-the-social-media-bill-you-can-no-longer-take-our-rights-from-us"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Roli Ogisi, Kachy Nwobi, Pishikeni Stephen Tukura and 13 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "filtered_threads/roliogisikachynwobipishikenistephentukuraand13others_rocdwstuia"
+}

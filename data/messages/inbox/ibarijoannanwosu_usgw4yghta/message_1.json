@@ -1,0 +1,4419 @@
+{
+  "participants": [
+    {
+      "name": "Ibari Joanna Nwosu"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498769110767,
+      "content": "Ibari called you.",
+      "call_duration": 1011,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498768085977,
+      "content": "Ibari missed your call.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498767962385,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498767953519,
+      "content": "Give me 10?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498767936269,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498767914444,
+      "content": "Who?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498767905016,
+      "content": "Still want to chat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498767891630,
+      "content": "Where do they live again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498757216821,
+      "content": "Heading home now. Maybe we can speak later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498757181926,
+      "content": "I fly tomorrow at 9pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498757166650,
+      "content": "Prep work....still on it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498757148410,
+      "content": "Okay - I'll leave the keys with Ugonna. But you have to water my plants!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498757114229,
+      "content": "Sorry - got buried in work!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498757101615,
+      "content": "Hello!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498751272132,
+      "content": "Are you feeling good about all the prep you needed to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498751255046,
+      "content": "When do you leave tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498751246787,
+      "content": "Will you still be able to leave keys?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498751236135,
+      "content": "But after the weekend, so Monday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498751223749,
+      "content": "Yes I'm thinking I'll come down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498751216621,
+      "content": "Self watering systems? Is this is a proprietary invention?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498750538549,
+      "content": "They need watering while I am away; if you are not coming then I need to set up my self watering systems tonight.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498750476969,
+      "content": "I am asking on behalf of my houseplants.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498750462483,
+      "content": "Are you still coming to Brighton?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498750450974,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498587708606,
+      "content": "Okay. I'll tag Akunna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498587656024,
+      "content": "lol yeah its just of the bride and groom tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586988494,
+      "content": "The nice ones oo!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586967232,
+      "content": "Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586957649,
+      "content": "Post on FB I guess.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586917938,
+      "content": "Should I send them to you or just post on FB and you can tag?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586908639,
+      "content": "also I got a few okay shots of the wedding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586650567,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586627820,
+      "content": "Yeah ojay's been bugging me to put them up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586619199,
+      "content": "Ah thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586363037,
+      "content": "The California ones I mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586347185,
+      "content": "Not this week though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586341419,
+      "content": "Lovely photos. I am going to try and paint one of them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586319278,
+      "content": "Fine!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586294456,
+      "content": "How was work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586290204,
+      "content": "Hmmm okay I'll let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586236345,
+      "content": "It is, but you'll have to go to Ugonna's and get the keys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498586215334,
+      "content": "Friday after work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586207898,
+      "content": "Would it be possible to come in after you've left?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498586198163,
+      "content": "When do you leave again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498457246330,
+      "content": "okay I'll get in touch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456381434,
+      "content": "South. He's at Nneka's in Haywards Heath",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498456351792,
+      "content": "up north or south?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498456344163,
+      "content": "oh right forgot about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456326995,
+      "content": "No. He'll be here till the end of August. Hopefully you get to see him and tell him yourself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498456285415,
+      "content": "Did you tell him I'm confused and jobless lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456227988,
+      "content": "My Dad asked about you yesterday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456197145,
+      "content": "I leave at 8.30am. Office starts 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498456170603,
+      "content": "Off to work soon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498456163028,
+      "content": "hmmm possibly. I'll see how this week goes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456122340,
+      "content": "Think about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456107699,
+      "content": "You can come and stay at mine while I'm away. Change of scene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498456019280,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455923510,
+      "content": "just thinking of changing things up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455915110,
+      "content": "nothing wrong with the house per se",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455873019,
+      "content": "Distractions?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455863691,
+      "content": "What's wrong with the house?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455841445,
+      "content": "Gonna go try find a good cafe to work at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455834110,
+      "content": "Hopefully this week will be better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455821865,
+      "content": "for a number of reasons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455817307,
+      "content": "not very productive last week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455810850,
+      "content": "Job hunt is slow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455800580,
+      "content": "I can imagine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455797794,
+      "content": "Ah thats right the double trip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455766660,
+      "content": "How is the job hunt going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455755335,
+      "content": "Busy week ahead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455736448,
+      "content": "Lots of prep to do.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455702086,
+      "content": "I'm off to Zimbabwe and Kenya this weekend. Two weeks away. Back on the 15th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455643838,
+      "content": "Fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455637337,
+      "content": "You?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455629906,
+      "content": "Eh here and there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455589308,
+      "content": "Oh. Didn't expect you to be up. How are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1498455547556,
+      "content": "Hola!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498455516467,
+      "content": "Hey Kene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1498333716847,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497972840032,
+      "content": "That'll be a relief!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497972816875,
+      "content": "it'll cool down next week though I hear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497972810249,
+      "content": "Ouch okay that sounds bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497972374343,
+      "content": "It must be hotter here than there then. I have heat rashes on my neck. Had to order a fan from Argos yesterday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497972299914,
+      "content": "which is incredible because I'm not even sweating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497972277966,
+      "content": "yeah apparently the hottest day of the year will be tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497971658363,
+      "content": "Hot!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497971644736,
+      "content": "how is brighton?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497971641452,
+      "content": "tom likes to cook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497971636982,
+      "content": "doing more apps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497971634877,
+      "content": "seeing london",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497971629657,
+      "content": "good good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497970196576,
+      "content": "How is it going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497970191481,
+      "content": "Thank you! Got them!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497815962989,
+      "content": "Don't forget my photos!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497792890794,
+      "content": "Thanks! You too x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497792878112,
+      "content": "Enjoy the rest of Sunday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497792870383,
+      "content": "Sweet beans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497792672178,
+      "content": "I was lucky - got the fast train.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497792649978,
+      "content": "I am in Brighton already \u00f0\u009f\u0098\u0083. On the bus home.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497792581919,
+      "content": "Train to Brighton yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497792576910,
+      "content": "Yeah im in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497790190803,
+      "content": "Did you get there okay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497785793901,
+      "content": "While I'm still on the train.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497785793621,
+      "content": "Check that you have everything please.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497785719124,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497559188729,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497559112627,
+      "content": "Which room are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497559112323,
+      "content": "Wake up!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497559078964,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497559028901,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497540993709,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540969214,
+      "content": "Safe tracks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540963062,
+      "content": "Yeah looks like it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497540920473,
+      "content": "Okay. Leaving work shortly.  Its a long trip up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540891187,
+      "content": "So she'll transfer us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540783660,
+      "content": "No twin tonight but tomorrow and the day after yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540770233,
+      "content": "Yeah she said it came through as a double on airbnb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497540483852,
+      "content": "Can you ask if there is a twin available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497540455925,
+      "content": "Oh? I asked for a twin room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540019517,
+      "content": "It's only one double bed though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497540009245,
+      "content": "There's some things in fridge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497538687205,
+      "content": "Take something along to eat - I think the place is a bit remote.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497537273892,
+      "content": "I'm still at work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497537266984,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497537259315,
+      "content": "Ojay not with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497537254572,
+      "content": "Awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497532488274,
+      "content": "You can check in at 4pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497532476808,
+      "content": "All sorted with Gordon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497528226035,
+      "content": "I got a voicemail but will try again. I texted him too.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497528167226,
+      "content": "Hi Kene. No news from Gordon (host) yet. His number is +447455746446 and the confirmation code is HMFHTR38TJ. Maybe just call him? Is Ojay with you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515434597,
+      "content": "Sweet beans thanks again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515373949,
+      "content": "Not sure how far with that. But let me reach this BnB guy first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515350099,
+      "content": "He was talking about getting a room close by",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515330750,
+      "content": "Hmmmm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515311350,
+      "content": "We were thinking I might go to o jays place durijg his lunch and then he'd drive me to yours but its far out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515287121,
+      "content": "Let me do that first and get back to you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515262046,
+      "content": "Yaaay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515256146,
+      "content": "I can do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515248186,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515246250,
+      "content": "Think I could just hang around till then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515229932,
+      "content": "Would it be possible to text your airbnb guy to ask him to let son in at checkin time? 4 oclock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515206182,
+      "content": "Whats the plan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515199301,
+      "content": "Yeah ojay said",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515189655,
+      "content": "I arrive at 10pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515180589,
+      "content": "\u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515168857,
+      "content": "Seasoned traveller",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515164299,
+      "content": "Yeah messaged him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515164210,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515159700,
+      "content": "Ehh I've seen worse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515153970,
+      "content": "Are you in touch with Ojay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515145483,
+      "content": "You must be exhausted.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515138440,
+      "content": "Welcome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497515133851,
+      "content": "Oh. Great!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515115989,
+      "content": "Im in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497515106626,
+      "content": "Hola",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497466786046,
+      "content": "I hope you fly tomorrow. Let us know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497466738600,
+      "content": "Bummer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497466736526,
+      "content": "Hi Kene. Ojay tells me your flight was cancelled. Sorry about that.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497365718195,
+      "content": "thanks safe strip!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497365621550,
+      "content": "Phone almost out of battery.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497365610945,
+      "content": "Okay. Safe flight! Heading to Brighton now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497364369898,
+      "content": "fly in 6 hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497364362646,
+      "content": "Moonlight was a bit more revered than it deserved",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497364348814,
+      "content": "NIce!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497362018992,
+      "content": "What time do you fly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497362011130,
+      "content": "Watched Moonlight. And slept the rest of the time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497361988249,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497361986539,
+      "content": "I just got arrived Heathrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497361977689,
+      "content": "Safe flight too. See a good movie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497361961026,
+      "content": "Awesome see you soon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497361955340,
+      "content": "Kendavidn@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497334961625,
+      "content": "Safe flight today. I'm also flying back to the UK.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497325813475,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497304347085,
+      "content": "What email are you using so I can send you the info for the AirB&B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497304306535,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t34.18173-0/q65/p480x480/19142185_10211166067020794_417472573_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&_nc_tp=27&oh=abd80ed0093cf6976cd25f06d74c2416&oe=5F7B7E25",
+          "creation_timestamp": 1497304306
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497304305208,
+      "content": "Sorry - I was sending that to Olive \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497293495914,
+      "content": "Later tonight.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497293495910,
+      "content": "I'll send you the address.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497293495905,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497289334314,
+      "content": "Ojay only has couch :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497289328649,
+      "content": "Do you still have bed for me on Thursday and Friday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497162827188,
+      "content": "I'll see you Friday then I guess. Safe travels.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497162163826,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497162157412,
+      "content": "Oh!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497151985367,
+      "content": "get into manchester early wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497151977959,
+      "content": "flying out on tuesday now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497151973936,
+      "content": "I thought I had booked a flight for saturday but I never actually hit confirm lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497151955138,
+      "content": "Nope :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1497151951186,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497041428288,
+      "content": "Are you flying tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1497041416003,
+      "content": "Hey Kene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496345313313,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496345308278,
+      "content": "Have fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496345305424,
+      "content": "Okay bye!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344264864,
+      "content": "Take care xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344243345,
+      "content": "Okay, I'll let you get on with your applications",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344223389,
+      "content": "I'll ask her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344217565,
+      "content": "Not sure Olive's plans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344204339,
+      "content": "I rented a twin room at a B&B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496344196042,
+      "content": "Ah okay perfect I probably will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344194000,
+      "content": "You could also go to Ojays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344181107,
+      "content": "In case you need a place to sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344171943,
+      "content": "Sounds good. I have an extra bed in Knutsford 15th-18th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496344151363,
+      "content": "exciting!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496344140187,
+      "content": "Yeah I'll probably be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344128054,
+      "content": "Wiring mostlydone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344120688,
+      "content": "Doors done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344118212,
+      "content": "Tiles done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344113282,
+      "content": "Windows done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496344108499,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344102086,
+      "content": "Yeah the house is coming along",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344090422,
+      "content": "Knutsford is where the wedding is happening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496344083265,
+      "content": "Ah right the house is coming along",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344075545,
+      "content": "Hopefully I'll see you in Knutsford",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344050694,
+      "content": "Good luck with the applications",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496344036395,
+      "content": "I've got lots of admin stuff to sort too... with my bank, my insurance company, renew my driving license....so been out and about a bit too.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343953737,
+      "content": "Like every day pretty much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343946931,
+      "content": "Lots of visits to the site",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343933660,
+      "content": "Not much. Just chilling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343922301,
+      "content": "whatchall been up to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343919661,
+      "content": "At all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343912420,
+      "content": "not taking NECO seriously I'm imagining",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343900556,
+      "content": "Sweet sweet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343856560,
+      "content": "Then up north on the 15th for the wedding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343840747,
+      "content": "I'm back to England on the 13th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343812356,
+      "content": "To write NECO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343807438,
+      "content": "Aka is going back this Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343798519,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343797274,
+      "content": "Its not too hot at the moment fortunately. The rain is cooling things down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343787347,
+      "content": "the boys home?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343769577,
+      "content": "Hmm right its easy to foret the geat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343767606,
+      "content": "Days going by too fast \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343737863,
+      "content": "Warm and wet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343727588,
+      "content": "Abuja is good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343717937,
+      "content": "Okay.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343717330,
+      "content": "hows abuja?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343709197,
+      "content": "Ah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343704210,
+      "content": "yeah flying on the tenth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496343695004,
+      "content": "Are you still going to England this month?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343681474,
+      "content": "time consuming cause you gotta research the lab's research and read a ton before putting in a convincing application",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343644785,
+      "content": "trying to put in research applications",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343632016,
+      "content": "Doing alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1496343629962,
+      "content": "Hey ma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1496314197853,
+      "content": "Hi Kene. How are you doing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1495308468580,
+      "content": "You called Ibari.",
+      "call_duration": 1562,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495306876970,
+      "content": "Ibari called you.",
+      "call_duration": 369,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495306098365,
+      "content": "Where is he now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495306076640,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495306034271,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495305448325,
+      "content": "Okay. Ill call you in 10 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1495305427965,
+      "content": "Hey! Free for the next hour or so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495268400113,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1495243219822,
+      "content": "Still up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1495243034584,
+      "content": "Hola! Sorry napping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495240054896,
+      "content": "Hi Kene. If you get this in the next half hour ping me. Otherwise let me know when to call you tomorrow. Take care x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495239939187,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1495239896417,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1493927186351,
+      "content": "You called Ibari.",
+      "call_duration": 106,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1493927067285,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1493925058381,
+      "audio_files": [
+        {
+          "uri": "https://interncache-atn.fbsbx.com/v/t59.3654-21/18071923_10210827019264812_1404117331247890432_n.mp4/audioclip-1493925056000-11392.mp4?_nc_sid=7272a8&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9lbnRpdHkvbWVzc2FnZV9hdWRpbyJ9&_nc_ht=interncache-atn.fbsbx.com&oh=907177ee87c8fa780d431c9f281bfebc&oe=5F7BBF5F&dl=1",
+          "creation_timestamp": 1493925056
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1493925040326,
+      "content": "You missed a call from Ibari.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1493856911042,
+      "content": "Read the description before you watch. Happy Birthday  \u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1493856870994,
+      "content": "https://www.youtube.com/watch?v=79FH7XhjtG8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774724013,
+      "content": "\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774704257,
+      "content": "Thanks for hollering!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774701419,
+      "content": "You too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774696463,
+      "content": "Take care xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774683571,
+      "content": "Hilarious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774676401,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774675604,
+      "content": "looks great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774668629,
+      "content": "I wasnt sure whether that was olive ojay me or you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774653192,
+      "content": "Okay sounds good will keep you posted!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774471667,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774425343,
+      "content": "I was an old man in a school play. Form 2 (JS2) I think.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774380619,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t34.18173-0/q65/p480x480/17857424_10210613131317747_1302700192_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&_nc_tp=27&oh=452bf27b2ed92196d9cf7dab11fe3779&oe=5F7B8266",
+          "creation_timestamp": 1491774379
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774353861,
+      "content": "Here's a photo to make you laugh...got it off my Mum today.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774325968,
+      "content": "And let us know if you need anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774312677,
+      "content": "Keep me posted on your work situation too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774299605,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774259138,
+      "content": "But anytime is okay. I should have an apartment by the end of this month, then I can have guests. Been putting up with someone since I got here.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774244016,
+      "content": "Okay exciting I'll see what its about!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774193855,
+      "content": "I thought about May because of the festivals. All the young people in my office are gushing about it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774147763,
+      "content": "No, any time is fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774132868,
+      "content": "https://www.brightonfringe.org/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774126612,
+      "content": "I am told the Brighton Fringe is the cool one. The Festival itself is too pricey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774093535,
+      "content": "doesn't have to be in May though right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491774085132,
+      "content": "Don't know if I'll have the money or time but let me start looking at how to make it work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774015052,
+      "content": "Probably go home finally mid to end July",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491774003038,
+      "content": "Geography - going home end of May, but back again in June",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773996023,
+      "content": "mmmm maybe!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773981000,
+      "content": "Work is fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773965909,
+      "content": "plans regarding work and geography",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773948615,
+      "content": "brightonfestival.org",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773938399,
+      "content": "If you find yourself with some free time in May come and visit. It's the Brighton festival",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773915058,
+      "content": "What are your plans?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773819888,
+      "content": "Well... good luck with that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773798890,
+      "content": "yeah should be fun it pays peanuts but housing is free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773782936,
+      "content": "Sounds like good fun though \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773763327,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773750275,
+      "content": "yeah showing kids trees and lizards and things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773661763,
+      "content": "Ojay says he is coming visiting soon....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773645462,
+      "content": "Okay. Googled it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773603753,
+      "content": "What is 'outdoor education'?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773587174,
+      "content": "Hmmm...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773570986,
+      "content": "don't know if I can take it bc it might not meet visa requirements",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773559646,
+      "content": "interview for that soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773556490,
+      "content": "I applied for a job doing outdoor education for elementary schoolers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773542688,
+      "content": "Not set on antyhing yet. still thinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773447364,
+      "content": "openings?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773441357,
+      "content": "Any ideas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773433019,
+      "content": "So what are you thinking to do next?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773419278,
+      "content": "I hope to go back someday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773326139,
+      "content": "Yeah that was the plan but I made an excuse to leave a week/ three weeks early, depending on how you look at it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773303341,
+      "content": "you will go back eventually?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773297281,
+      "content": "Ahh sad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773242965,
+      "content": "I thought you were teaching till May",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773218523,
+      "content": "India - good, but i didn't get to explore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773192315,
+      "content": "Nice that you have a break and a guest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773178404,
+      "content": "how was India?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773173591,
+      "content": "gotta figure out next step",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773169781,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773166908,
+      "content": "next week is last week of teaching",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491773166133,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773158858,
+      "content": "Driving around the place with Mohammed who's here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773150695,
+      "content": "Teaching has been killing me as usual but I'm on break now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773136603,
+      "content": "Doing okay okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773131755,
+      "content": "Yeah been a while",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1491773126149,
+      "content": "Hey Ma!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491765897639,
+      "content": "How is the teaching going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1491765836810,
+      "content": "Hi Kene. How are you doing? It's been a while?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649856138,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649850858,
+      "content": "enjoy the restful weekend!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649848205,
+      "content": "Bye xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649843480,
+      "content": "thanks for checking in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649840297,
+      "content": "bye!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649836556,
+      "content": "Will try!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649802264,
+      "content": "Get a nice car!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649790005,
+      "content": "Okidoki....take care x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649735494,
+      "content": "Gotta start heading to the car place soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649710709,
+      "content": "yeah this is what I'm thinking should happen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649581809,
+      "content": "Good luck with it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649576149,
+      "content": "As your confidence in your abilities grows. There will always be high-pressure moments or periods, but that shouldn't be the default.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649524510,
+      "content": "You will.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649501120,
+      "content": "yeah there's a balance. Will hopefully find it soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649453068,
+      "content": "Don't slack off. Do a good job. But it doesn't have to be perfect. A high drive for perfection is usually not a good thing.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649438085,
+      "content": "but yeah I agree that I need to give myself a little more credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649417967,
+      "content": "because of the feeling of being unprepared by Monday morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649393984,
+      "content": "slacking off can make the job harder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649362311,
+      "content": "Yeah that makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649350866,
+      "content": "You have the ability. I think you have the heart too. Put together, that's enough.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649248392,
+      "content": "Trust in your ability to do a good job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649237049,
+      "content": "I think you should be easier on yourself though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649176886,
+      "content": "Yeah, that anxiety stuff is draining",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649157467,
+      "content": "I'm hoping my next job will have me feeling a lot less anxious too, whatever it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649139074,
+      "content": "Awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649130683,
+      "content": "I am so much more relaxed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649120528,
+      "content": "sounds better than 90% of jobs!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649116949,
+      "content": "And it is much 'lower-pressure' than USAID",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649081094,
+      "content": "It's not super-exciting, but there's enough to keep me engaged",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488649040143,
+      "content": "I'm enjoying it I think.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488649009984,
+      "content": "\\work fulfilling or exciting so far?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648997744,
+      "content": "yeah the plan B is to up and out to England lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648979099,
+      "content": "As long as you have a plan B.. however unlikely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648955103,
+      "content": "Okay.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648938901,
+      "content": "I'm a little less anxious about that possibility than before not sure why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648927702,
+      "content": "I'm just keeping fingers crossed I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648912052,
+      "content": "no not really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648901262,
+      "content": "Any news about the visa stuff and how the new rules might affect it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648897644,
+      "content": "yeah I guess australia is separate enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648864499,
+      "content": "If you count it as a continent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648842214,
+      "content": "Except Australia I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648822217,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648816900,
+      "content": "but continents are a scam anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648807214,
+      "content": "istanbul is supposed to be the european side and the rest, across the sea is asia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648789065,
+      "content": "ah okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648788677,
+      "content": "dunno actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648781722,
+      "content": "I think of it as middle east....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648772006,
+      "content": "Turkey - is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648758849,
+      "content": "But is't Izmir in Asia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648755599,
+      "content": "Yeah......Nigeria is still on the cards.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648740846,
+      "content": "is that still part of the plan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648738075,
+      "content": "Was a good week with the guys. We missed you :-(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648735100,
+      "content": "Nice. This is to get a sense of how you might build a similar program in Nigeria?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648707123,
+      "content": "My first time in Asia - I'm excited!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648682241,
+      "content": "Do some assessments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648665701,
+      "content": "They have programs there already. I'm going to visit the partners",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648641166,
+      "content": "Your org is looking to establish a program there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648640639,
+      "content": "Delhi, Mymbai, Hyderabad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648626112,
+      "content": "Awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648622017,
+      "content": "Yeah will send pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648608302,
+      "content": "Off to India next weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648589246,
+      "content": "First really restful weekend since I got here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648556614,
+      "content": "I'm good. Having a quiet weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648540824,
+      "content": "Send us a photo when you get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648533971,
+      "content": "how are you doing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648510364,
+      "content": "Nice!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648500472,
+      "content": "so just planning lessons and all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648494955,
+      "content": "On a break from teaching for two weeks while students take short elective courses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648494360,
+      "content": "Oh! Exciting!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648461392,
+      "content": "Planning to get a car today actually!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1488648447435,
+      "content": "Hey no not much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1488648431133,
+      "content": "Hey Kene! How are you? Anything new?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487720149298,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487720031644,
+      "content": "yeah I think he'll calm down fbgers crossed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487720017325,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487720012206,
+      "content": "If Trump doesn't go more wacko than he is already.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487720006641,
+      "content": "but I need to settle a few more things before we can plan properly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719992133,
+      "content": "we talked about his visiting in May when I'm done with this job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719977142,
+      "content": "Yeah miss you guys too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719965343,
+      "content": "Miss you...wish you were here. Ojay says he might visit later in the year.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719917208,
+      "content": "Will do.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719896250,
+      "content": "Let me know as things pan out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719875650,
+      "content": "Okay okay good that its narrowing down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719841476,
+      "content": "Maybe the cheapest option....depending on what else we get in terms of aid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719804303,
+      "content": "England still on the list",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719786864,
+      "content": "Canada not likely....we decided it's too isolated and because it's a five year programme it doesn't really translate to cost savings.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719723862,
+      "content": "How about canada and england?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719712619,
+      "content": "Realizing its too hard to put down roots starting from nothing/ with my personality style and amount of work. Know many more people out east",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719651677,
+      "content": "Why have you changed your mind about California?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719626232,
+      "content": "And they don't give aid, so not a likely option",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719600934,
+      "content": "Yeah. They're all east coast except UWashington",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719597727,
+      "content": "he should visit california its milder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719592598,
+      "content": "Haha the cold can be a shocker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719582101,
+      "content": "are canada and england still active options?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719571513,
+      "content": "most of his schools are on east coast anyways though right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719561151,
+      "content": "would tuition at RIT be feasible thenm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719548256,
+      "content": "ah okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719534192,
+      "content": "He keeps complaining",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719509888,
+      "content": "We're coping....Daddy isn't though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719476998,
+      "content": "*this month",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1487719463683,
+      "content": "RIT offered 17k a year financial aid. Otherwise nothing. We are awaiting other admission decisions end of his month.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719098702,
+      "content": "How are they enjoying the cold?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719091386,
+      "content": "Amazing scenery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719081533,
+      "content": "Saw the photos!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719075951,
+      "content": "I'm starting to think about possibly moving back East (Boston specifically) and where Aka is would influence my thinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487719004041,
+      "content": "Any updates on Aka's schooling?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1487718997735,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486256938199,
+      "content": "I fell asleep :-(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486256930152,
+      "content": "Hola!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1486253796736,
+      "content": "Hola!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486005863973,
+      "content": "Good night/morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486005846493,
+      "content": "Insomniacs anonymous :-(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486005846026,
+      "content": "I should be sleeping though. It's half past three am :-(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486005715150,
+      "content": "The financial aid applications are still open till Feb 15th though. ...so I guess they're waiting for all the applications to come in before they decide.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486005684638,
+      "content": "'Your financial aid award is not yet available'",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486005681243,
+      "content": "They said that will come later....not sure what that means",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1486004450384,
+      "content": "aid there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1486004432535,
+      "content": "awesome!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486002162295,
+      "content": "I like Rutgers better though. We'll see.  Talk Saturday.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486002162009,
+      "content": "He got an offer at Rochester  Institute of Technology too.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1486002160943,
+      "content": "Alright. Talk to you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1486001938917,
+      "content": "yeah saturday at 4 I like it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485856443261,
+      "content": "I'm moving house on  Sunday 11am-12 noon and church is 9.30am but otherwise I am home.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485856395018,
+      "content": "Would that work? If not then you propose.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485856374004,
+      "content": "I love *",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485856363251,
+      "content": "I live the walking but not when it rains,  like today! Let's try for Saturday then.  I'm going walking in the South Downs but will be back about 6pm. You are eight hours behind so we could try for 10pm my time 4pm yours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485856126900,
+      "content": "probably your sat or sunday evening?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485856110789,
+      "content": "managed to catch up with the jay so I'm sure we can work out a time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485856099983,
+      "content": "yeah weekend chat should be great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485856081936,
+      "content": "ouch ouch that's a nice morning workout!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485849805498,
+      "content": "Let me know when. Ciao!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485849792009,
+      "content": "Chat at the weekend maybe? Time difference and work is a bit of a challenge during the week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485849756183,
+      "content": "Got to go now. It's a 40 minute walk to work....and I can't text because my fingers are freezing!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485849711501,
+      "content": "It seems like a good place....we'll see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485849684819,
+      "content": "For out of state peeps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485849674897,
+      "content": "Like 29k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485849088813,
+      "content": "glad you're enjoying new job!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485849078802,
+      "content": "whats rutgers fees like?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485849063538,
+      "content": "was just asking ojay if he knew whether Aka had gotten in somewhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485849047179,
+      "content": "Niccee!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485849037395,
+      "content": "yeah it could be worse I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485849023148,
+      "content": "yeah it is ridiculously difficult",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485847413064,
+      "content": "xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485847406246,
+      "content": "Try write more about your job this weekend and put on the group.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485847375617,
+      "content": "Anyway I am glad he has at least one offer. Good for the morale",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485847275850,
+      "content": "It's a state school though, so no financial aid (just the FAFTA and only Americans are eligible).",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485846972515,
+      "content": "In the email I was telling you Aka was offered a place at Rutgers Uni.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485846919040,
+      "content": "Seriously though, you shouldn't use self-deprecating speech.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485844438725,
+      "content": "Mine is okay so far.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485844382240,
+      "content": "Failing?  Is it that hard?  Or you're just kidding?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485828161514,
+      "content": "vassar zapped my e-mail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485828155766,
+      "content": "using kendavidn@gmail.com now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485828147415,
+      "content": "I did not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485828145157,
+      "content": "how is your's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485828138889,
+      "content": "Yeah just here failing at my job haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1485828128346,
+      "content": "Hey!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485812176339,
+      "content": "What email address are you using now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485812161087,
+      "content": "Did you see my email on Aka?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485812151405,
+      "content": "You there somewhere?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1485812136859,
+      "content": "Hey Kene.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483378686727,
+      "content": "Will do!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483378672332,
+      "content": "Post your first day work attire on the fb group!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483378662654,
+      "content": "Sounds sweet!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483378121836,
+      "content": "So I'm taking several work jackets and lots of scarves/wraps.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483378043874,
+      "content": "From what Olive says it's essentially the same except I might need to layer up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483377998897,
+      "content": "Ha! I'd have imagined it would be the same. Would you need more or fewer suits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483377988612,
+      "content": "Take things one day at a time as they come. It'll be good. A new adventure.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483377984011,
+      "content": "I have a place to stay for the first two weeks (courtesy AirBnB) and Ugonna will meet me at the airport with couple of coats and sweaters. I'll play the rest by ear.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483377790155,
+      "content": "Work starts tomorrow - mostly administrative clearances (so.I can get my final check) and a send forth.on Friday. England plans are moving along slowly - I started packing a suitcase today finally after a long conversation with Olive about how to dress to work in the UK \u00f0\u009f\u0098\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483377603502,
+      "content": "Back to work? How are England plans?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483377590676,
+      "content": "OKay sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483376490935,
+      "content": "Hey Kene! Glad you arrived safely. Thanks for the addresses. Daddy says the car plan is still on; he spoke with Ify about it two days ago. Send her a message on Facebook (she's Ifeoma Nwosu-Nwasinoke) and let her know you are in CA now and that Daddy asked you to talk with her about a car.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483373095501,
+      "content": "My work address is 890 Broadway, Redwood City, CA 94063",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483373067670,
+      "content": "Any word about the car buying?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483373057588,
+      "content": "Address is Apartment 4, 1617 6th Avenue, Belmont, CA 94070",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483372999066,
+      "content": "colder than expected though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483372995403,
+      "content": "Its quite a nice place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483372986805,
+      "content": "Moved in now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483372984926,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483195575300,
+      "content": "Okay. Let me talk to Daddy first.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483195522192,
+      "content": "I'll call her if you send me number then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483195501794,
+      "content": "Ah okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483192726089,
+      "content": "It will probably be a cheap car. I think he told her to look for something under 2000 and she said she would, that you should contact her when you get back. But let me check with him again.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483192630235,
+      "content": "I just imagined it was too difficult financialy since he already struggled to get me the monwy for rent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483192585156,
+      "content": "no we sort of let that conversation slide",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483192572201,
+      "content": "Yeah true about the UK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483192221441,
+      "content": "Speaking of support systems, did Daddy talk to you about connecting with Ifeoma? She's supposed to be helping find you a car.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483192154158,
+      "content": "The US is actually only cheaper with financial aid or a scholarship.  If we end up having to pay full tuition plus living expenses, the UK works out cheaper.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483192008314,
+      "content": "Also if UK costs are super prohibitive I honestly think Ojay, Olive and I would be completely on board with trying to help out with fees!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483191927496,
+      "content": "True that. \n\nWe'll see how things go.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483191810657,
+      "content": "yeah but true but I feel like itd be easier to keep contact with siblings than extended family we never really got to know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483191660308,
+      "content": "I wanted an address actually - where you'll be staying or where you'll be teaching, or your employers (for the tutoring). Just in case. \n\nI agree. That's one advantage of the UK. Family close by. But again, a support system is only helpful if you use it. Daddy tried hard to link you and Olive up with his relatives in the US but you guys didn't seem too keen on it. Ojay did a bit better with my family, but he was still a bit distant. How to deal with that side of it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483191445925,
+      "content": "also btw, been thinking sbout Aka in college and feeling like even though  money is the most important factor, tryna make sure he has a decent support system",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483191252241,
+      "content": "Yeah.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483191244444,
+      "content": "so UK and canada applications now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483191231901,
+      "content": "yeah ill definitely let you guys know how im settling in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483191209114,
+      "content": "yeah happy new year to you too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483190990696,
+      "content": "Yup! Happy New Year!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483190728163,
+      "content": "Now fingers crossed until March?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1483190719862,
+      "content": "wonderful!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483172856634,
+      "content": "Hi Kene. I submitted three of Aka's applications yesterday. My card worked smoothly, which is great \u00f0\u009f\u0098\u008e\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd. I'll do the ones with later deadlines in the course of the week. We really appreciate all your help with the process. \n\nYou travel west tomorrow, right? Please share some info about where you'll be living and working. \n\nLove,\n\nMummy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483083385721,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t34.18173-0/q65/p480x480/15782239_10209727430775787_1673501082_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&_nc_tp=27&oh=94fa5d49e18da0b64c3ce75067152804&oe=5F7B798E",
+          "creation_timestamp": 1483083384
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1483083367999,
+      "content": "We found this after you left.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956255905,
+      "content": "\u00f0\u009f\u0092\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956247428,
+      "content": "she says hi back! bye. Love you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956235522,
+      "content": "Take care.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956228512,
+      "content": "Say hi to Zoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956221062,
+      "content": "sweet no problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956215778,
+      "content": "Thanks x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956209552,
+      "content": "Just waiting on IELTS and we are good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956194074,
+      "content": "I'll be here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956191830,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956181523,
+      "content": "Not for now. We'll try to submit tomorrow or Friday. So please standby to help on Saturday in case my card is rejected. But I think it will work.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956119693,
+      "content": "I'll sort it out. He thinks I don't know what stuff costs.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956116151,
+      "content": "*do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956113764,
+      "content": "is there anything else you want me to help fo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956106506,
+      "content": "hope it gets sorted out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482956067239,
+      "content": "mmm yeah this is not good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956053059,
+      "content": "Dishonest fellow.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956032487,
+      "content": "So he can take his $36 from there.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482956017552,
+      "content": "The guy is shifty. He collected $200 off me to register Aka for SAT2. Meanwhile the fee for two papers is about $70.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955955674,
+      "content": "Alert includes the fee.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955929681,
+      "content": "I get email alerts each time someone orders scores.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955921560,
+      "content": "ok ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955909894,
+      "content": "No. I have a record of the orders. They were free.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955880625,
+      "content": "the ones that say awaiting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955871013,
+      "content": "he might have done the extra two accidentally?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955865417,
+      "content": "Anyway, I'll sort it out with him. Thanks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955843513,
+      "content": "But the man is claiming he spent $65",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955831874,
+      "content": "Okay. That's helpful. So he did three then - the two Amhersts and Georgia Tech. That's $36. The SAT2 ones are free up until a week after the exam.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955750031,
+      "content": "no just those two then the five",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955735332,
+      "content": "I thought you did some additional ones before you came home. In addition to the two early ones. No?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955698794,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955691299,
+      "content": "those were the two you had me do early?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955683362,
+      "content": "ok yes yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955656033,
+      "content": "So these five, plus Uni of Washington and Rutgers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955584040,
+      "files": [
+        {
+          "uri": "https://interncache-atn.fbsbx.com/v/t59.2708-21/15595328_10211971587632056_6972009407890587648_n.pdf/AKa-order-receipt-Your-SAT-Score-Report-Order-Invoice.pdf?_nc_sid=0cab14&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9lbnRpdHkvbWVzc2FnZV9maWxlIn0%3D&_nc_ht=interncache-atn.fbsbx.com&oh=128a2af5ea8d0d1d2ae8068ced7bc50f&oe=5F7B636B&dl=1",
+          "creation_timestamp": 1482955583
+        }
+      ],
+      "type": "Generic",
+      "ip": "2604:2000:268d:4000:d47f:8153:440d:548f"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955567468,
+      "content": "here's a list of the one's I ordered",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955560006,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955540251,
+      "content": "But - did you order all the ones on this list yourself (aside from the duplicate ones)?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955511220,
+      "content": "ah ah ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482955497550,
+      "content": "I think those are the SAT2 orders",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955443359,
+      "content": "not sure why some seem to have sent twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955430282,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t34.18173-0/q65/s600x600/15749936_10211971573031691_1270122174_n.png?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=e004c5fd03175c9e084d72af79698d97&oe=5F7BAC37",
+          "creation_timestamp": 1482955429
+        }
+      ],
+      "type": "Generic",
+      "ip": "2604:2000:268d:4000:d47f:8153:440d:548f"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482955382985,
+      "content": "Hey, here's a screen shot of the reports",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482949166380,
+      "content": "Hi Kene. We are having a bit of trouble with the teacher in Aka's school over SAT scores. He claims he paid for some to be sent. Please could you confirm how many and which ones you paid for? Thanks - sorry for the bother.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482894811286,
+      "content": "Love you too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1482894808365,
+      "content": "Im train to poughkeepsie now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1482894740082,
+      "content": "Hey Kene. Did you arrive Poughkeepsie yet? Drop a line when you can. Love you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1481005663392,
+      "content": "Take some photos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1481005642110,
+      "content": "I'm off to work now. Looking forward to seeing you tonight xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1481005616911,
+      "content": "Be careful though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1481005609815,
+      "content": "Sounds like fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1481005605051,
+      "content": "Nice!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1481003313778,
+      "content": "gonna do a free tour of the city that turkish runs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1481003303571,
+      "content": "In istanbul for the whole day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1481003296516,
+      "content": "Hello!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478976622235,
+      "content": "Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478974502715,
+      "content": "Okay. We'll call on our way to the airport to drop Olive. She leaves tonight.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478963040837,
+      "content": "Yeah that works!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478932726743,
+      "content": "I missed it \u00f0\u009f\u0098\u009f\u00f0\u009f\u0098\u009f\u00f0\u009f\u0098\u009f. We had no power so I fell asleep. Today same time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478795119302,
+      "content": "Okay. Tomorrow then. Take care x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478795105261,
+      "content": "4 pm ET?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478794937372,
+      "content": "Okay. I'll call in the evening then. Any particular time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478794900566,
+      "content": "yeah I'm off but I'll be taking an exam in the morning. So I should be free in the afternoon/evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478793657738,
+      "content": "I see. Thanks for the update. We should talk - is tomorrow a holiday for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779371021,
+      "content": "Time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779368811,
+      "content": "Also will be plannjng to try and get a driver's license in that Tom ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779324895,
+      "content": "Hopefully i can find something last minute then ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779313216,
+      "content": "So that might not happen until late december",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779302530,
+      "content": "I'm slowly applying for jobs but its hard to begin kn earnest when I don't have the certificate yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779270588,
+      "content": "And pass three exams ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779259308,
+      "content": "I've then got until November 28th to write and then in my certification portfolio ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779223398,
+      "content": "I should finish about November 24th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779211357,
+      "content": "Sorry I don't check it super frequently ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478779195967,
+      "content": "Ah right ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478755383127,
+      "content": "Anyway how are you and when do you finish with teaching practice and what next after that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478755335594,
+      "content": "I sent it to nwosukene@yahoo.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478755237407,
+      "content": "Oh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478734476721,
+      "content": "I don't think I got an email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478734473307,
+      "content": "Hey ma!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478728350838,
+      "content": "I sent an email. Get in touch please.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1478728307804,
+      "content": "Hey Kene. How are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1471644029756,
+      "content": "Yeah going great ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1471639925576,
+      "content": "Okay. Hope the trip is going well.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1471636103733,
+      "content": "Hi, yeah I saw it and I'm planning to call her today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1471636036889,
+      "content": "Hi Kene. How is it going? Did you receive Daddy's email about calling Auntie Edith?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902385662,
+      "content": "Okay. Talk to you later.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457902375703,
+      "content": "i'll call in a few hours",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457902368667,
+      "content": "sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902359324,
+      "content": "Can't get my US phone to work. But you could try my hotel number. It's 1-202-739-2001. I am in room 1024",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902266971,
+      "content": "But you might want to get the back checked out professionally....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902231177,
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t34.18173-0/q65/s480x480/12064013_10207363695803890_345423036_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&_nc_tp=28&oh=2709db39599b40fa5cc785375342505e&oe=5F7BA9F3",
+          "creation_timestamp": 1457902230
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902212281,
+      "content": "And here are some exercises that strengthen the back muscles (which reduces pain)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902188370,
+      "content": "http://www.whyiexercise.com/exercises-for-low-back-pain.html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902171118,
+      "content": "http://www.nhs.uk/Livewell/Backpain/Pages/low-back-pain-exercises.aspx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457902164356,
+      "content": "Hi Kene. Try these stretches:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457829170165,
+      "content": "Ok. In the morning.  I am knackered right now.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457790983985,
+      "content": "Also could you send me the stretch routine you said healed your back?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457790579509,
+      "content": "Nice. Yeah kinda free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1457773676112,
+      "content": "Okay. We'll adjust. I'm in Paris now. I'll send you my DC hotel number later tonight. You can make free US calls right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457751592914,
+      "content": "leaving me with just one day after graduation for exploring",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457751563603,
+      "content": "and I need to be in vermont for orientation on june 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457751517402,
+      "content": "I got a different summer job that I doubted I would, as a travel leader for high school volunteers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457751489637,
+      "content": "so another plan change for summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1457751480040,
+      "content": "hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370582248731,
+      "content": "Yep. Got 'em! Thanks. Hope you had a great day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1370508458588,
+      "content": "Thanks! I loved the video! Did you get the photos I mailed to you? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370481446151,
+      "files": [
+        {
+          "uri": "https://interncache-atn.fbsbx.com/v/t59.2708-21/11161014_10206783502093160_1375614796_n.mov/Mummy-birthday-message.mov?_nc_sid=0cab14&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9lbnRpdHkvbWVzc2FnZV9maWxlIn0%3D&_nc_ht=interncache-atn.fbsbx.com&oh=e9f35d681f8575b7c0cd5432b2335429&oe=5F7B8CF9&dl=1",
+          "creation_timestamp": 1429696065
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370481130586,
+      "files": [
+        {
+          "uri": "https://interncache-atn.fbsbx.com/v/t59.2708-21/11166945_10206783502413168_933682325_n.jpg/Mummy-birthday-message.jpg?_nc_sid=0cab14&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9lbnRpdHkvbWVzc2FnZV9maWxlIn0%3D&_nc_ht=interncache-atn.fbsbx.com&oh=cee1bfed56af9f0becac325a3a3cca65&oe=5F7B9F53&dl=1",
+          "creation_timestamp": 1429696072
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1370335731526,
+      "content": "Ok. Will email them tonight. Is that ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1370335731516,
+      "content": "Ok. Will email them tonight. Is that ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370323689828,
+      "content": "silly request, but any chance I could get the pictures on your phone of me in front of the weird mirror at cleveland science center",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370323569676,
+      "content": "realized I forgot to inform you when we got in. sorry about that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370323532270,
+      "content": "a smooth flight I mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1370323505494,
+      "content": "hey hope you had a safe flight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1369423711664,
+      "content": "My UK number: +447413761647. Boarding now xx. I will lose the wifi. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423542109,
+      "content": "Any number I can text you on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423534413,
+      "content": "Okay. I will look into it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1369423516811,
+      "content": "You could find out while you are waiting. We could take a bus too if they are available. Meanwhile I got free wifi just for 20 minutes so it might run out soon. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423401992,
+      "content": "Going straight to Oberlin is probably our best bet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423380300,
+      "content": "Not sure how the taxis here work though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423373498,
+      "content": "Yeah. Might be stressful but we should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1369423147214,
+      "content": "Me too. What time is the movie? Was going to take a taxi. But we could go straight to Oberlin I guess. I have luggage though...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423101860,
+      "content": "How did you plan on getting to Elyria?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423091025,
+      "content": "A bit worried about Olive's screening though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369423079547,
+      "content": "Okay. I'm at the airport now but I'll be fine waiting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1369423024537,
+      "content": "The plane just got here and needs to be cleaned before we board. Looks like we will be about an hour late. So it will be 5.40 instead of 4.40pm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369422927547,
+      "content": "Word. Probably the rain. When do you get in then?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1369422889936,
+      "content": "Kene we are delayed :-(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1369395811456,
+      "content": "Heyoo. Hope you have a safe flight. Will probably meet you at the airport.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1369380283933,
+      "content": "Hey Kene. On my way. See you tonight.\n\nLove, \n\nMummy. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367770043468,
+      "content": "Hope work is going fine!\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367770028754,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367770027662,
+      "content": "Really excited to see you guys in a couple of weekd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769877482,
+      "content": "But I get paid on wednesday so it should be good by then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769799137,
+      "content": "*moment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769793616,
+      "content": "Supposed to get a cheap new phone and stay on the old plan and old number but dont have enough money to do that at the moent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769761823,
+      "content": "Dont exactly know whats wrong with the phone. Has something to do with regional blocking I think. Gone to a phone store and they dont know whats up either. It might still work in Nigeria though, so remind to bring it with me to Ohio ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769454281,
+      "content": "Got most of the financial aid application in. Just waiting for a confirmation letter that'll alllow me to send in the last part",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769424654,
+      "content": "Yeah its no problem about the money. Feel bad pressuring him because I feel like I always need more money. haha, But I'll be fine. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769416447,
+      "content": " Praying for you guys as well. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769410600,
+      "content": "My roommate's phone got charged even tough it was incoming call haha.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769402830,
+      "content": "We were still able to talk :) ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367769395740,
+      "content": "Hey Ma,\n\nSorry it took me so long to get to this. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367615787563,
+      "content": "Sorry I forgot the Enter key sends the message, (not go to the next line)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367615750605,
+      "content": "Haha Hey Ma,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1367612492927,
+      "content": "Dear Kene. \n\nHappy 17th Birthday! I am a bit sad that your phone is down, so we won't be able to call you tomorrow :-(  I hope you have a nice birthday. We shall be thinking of you and praying for you over here. Daddy has just told me that he hasn't sent you any money yet - I am sorry! How are you coping? Please always keep reminding him when he is supposed to send you money. It is sometimes not that he doesn't have any money at all to send, but rather that he is just not sufficiently organized and so he just doesn't get round to it. I will put some pressure on him so he sorts it early next week. \n\nI hope you got the financial aid application in okay. You really should sort out your phone - what really is wrong and what will it take to fix it? Do you need a new handset? A new plan? Let me know, I may be able to help. It can be a birthday present from me :-)\n\nLove,\n\nMummy\n\n\n\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1367349923641,
+      "content": "Hey mum. Glad you made it back fine. Hope it was worth the while. I've received the parcel thanks. Started the application yesterday and should be done by today's close. Phone plan is dead atm sorry. But I should renew it soon.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1367264060749,
+      "content": "Hi Kene. I am back now from Nairobi. Went to Kampala briefly too. A hectic trip. Have you received the parcel Daddy sent yet? What's up with your phone? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366760032418,
+      "content": "Great. Thanks so much. Hope things are going well in Nairobi!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1366725861317,
+      "content": "I think Daddy was to send the scanned stuff today. I will ask him. In Nairobi for some meetings, will call him tonight. Hope you are fine xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366721190280,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366721187871,
+      "content": "also please do you know when I might receive some extra money from daddy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366721157051,
+      "content": "Sorry just wondering when you guys might send the scanned info",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366721134762,
+      "content": "Hey Ma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1366529036798,
+      "content": "It worked. Thanks Kene. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366506027106,
+      "content": "It might be Africa not too sure though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1366501587359,
+      "content": "Hey Kene. I couldnt figure out how to use the scanner. So the stuff will have to come on Monday when the office staff are around. Sorry about that. \n\nPlease do you remember the password for the old Nokia phone you were using before  you changed to the Samsung? Please send it urgently if you do. \n\nThanks xx\n\nMummy ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1366410305602,
+      "content": "Ok. Tomorrow xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366408053894,
+      "content": "Awesome! That makes things much much easier. Thanks so much. Yeah could you scan the original financial aid application and send it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1366406964916,
+      "content": "Thanks Kene. Daddy has the form signed now. We will dispatch it tomorrow. I found the original financial aid application. Our combined income is filled as 112,000 dollars a year. The details are here as well - the amounts spent on different stuff. Do you need that info? ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366405584236,
+      "content": "I'll forward you your ticket soon. Its supposed to be eligible for online check-in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1366405548207,
+      "content": "thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1366398945811,
+      "content": "Kene it is Ibariwuego Joanna Nwosu. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1361645031199,
+      "content": "Hey Ma!\n\nSo sorry I took so long to reply this. I'm becoming really bad at communication aren't I. Need to step up my game. Haha.\n\nThings are going pretty well here. Winter is coming to a close (yaay). But I'm pretty sure I won't appreciate the spring rain either. Much worse than snow and cold, to be honest.\n\nMy classes this semester seem much easier than last. Weird, since I'm taking three two-hundred level classes. Started piano lessons, and I'm advancing pretty quickly. Turned out you could easily get a music scholarship to cover the cost of the lessons. Will play you guys something if you come in May! Also delving further into photography. Which is great, on the one hand, because I feel like it's something I'll keep doing for a long while, but bad, because student photographers = forever broke students. Haha.\n\nWas hoping to get some kind of paid internship over break, but it looks like with the kind of work I want to do (small-scale agricultural work in a developing country), and my level of experience (nil), volunteering is the only way to go. But there are some Vassar and other sources of financial aid which I think I'll be able to get to finance the trip.\n\nWas talking to Olive, and her final film project seems to be going well. Excited to see that! I'm guessing you guys will too, in May. Haven't talked to Ojay in a while, but we'll probably skype soon, catch up.\n\nHope Aka is doing well, conquering Hausa and the likes. Haha. I might start a self-instructional Spanish program soon actually, if I plan on going to Latin America for the Summer. Say hi to Elo as well. Is he writing the entrance exam in primary 4, or is that silly? To be honest, I don't think LJC is such an awesome idea anymore. They keep getting stricter and more inconveniencing, and bringing in more obtuse principals. Haha. Besides, I've always been of the opinion that it's the students that make the school, and not the other way around.\n\nHow was Valentine's day? Hope you and Dad had fun! Saw your facebook post about the lost money. Really sorry to hear about that. Hope you're fine now. And how's work going?\n\nPardon this badly structured email by the way. I'm bad at putting these together. Hit me a word back then. Say hi to everyone else! \n\nLove,\nKene\n\n\n ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1361129003624,
+      "content": "Hi Kene,\n\nHow are you doing? Just saying hi. We are fine over here. Nothing much up, same old routine. \n\nDrop a line, let me know how things are going. \n\nTake care,\n\nLove,\n\nMummy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1358408848087,
+      "content": "Going to bed now. Thanks for everything.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1358391598723,
+      "content": "Hi Kene. How are you? You must be tired after such a long journey. I was thinking - there are shuttle buses from JFK to Grand Central station which leave every 30 minutes and cost about $20, might be better than taking the train this late. May be ask at the airport. Please be careful at the train station so late at night. Drop a line when you read this please. Miss you xx ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1356265683822,
+      "content": "Great! Looking forward to seeing you tomorrow morning. Sorry about the long wait. We will try to fix it differently next time...\r\nTake care xx\r\n\r\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1356264264446,
+      "content": "In London! Long wait, but i got Wi-Fi and a couple of movies so it should be fine...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1355525261885,
+      "content": "Hi Kene. The lead singer on the song is my friends daughter. We were trying to rack up support for her. The competition is over and she won, thanks to all the friends who voted. Are you embarrased that I asked you to vote?  s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1354834305199,
+      "content": "Thanks for the reply. Spa ticket sounds good. Too tired to type much now. Please pick up the phone when Icall at the weekend. \n\nLove, Mummy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354478801219,
+      "content": "Hey!\n\nSorry I took so long to reply. My term's work peaked last week and I barely had any free time on my hands.\n\nSounds like things are pretty good at home. Miss you guys. Your workload is a lot though. Hope you're not too stressed out. You should get a \"world's most hardworking mum\" award! Haha. Started thinking about retirement yet? \n\nAww. Grey hair isn't that bad. You're old enough to be a grandmum though! How time flies! \n\nYeah. Olive told me about her friend. Should be fun, having a foreign visitor around.\n\nGreat that you'll be off for christmas. You definitely need some time off. Maybe we could get you an all-day spa ticket for your christmas present :)\n\nJust doing work, and looking forward to christmas over here. Thanksgiving was pretty fun. A ton of turkey.\n\nSee you then!\nLove you\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1353525120984,
+      "content": "Laugh @ \"_______A line\"\r\n\r\nThanks for the (short) update. Happy Thanksgiving. How are you spending it? \r\n\r\nWe are fine here. Elo is enjoying school and doing well. Daddy is fine too. I am working two jobs currently, struggling at the same time with my PhD studies. I have to write three or four 500-word papers every single week and each one requires quite a bit of reading and research. I am enjoying the courses but struggling to find the time to get everything done, getting frazzled and going grey at an alarming rate (stress perhaps).I decided to stop colouring my hair - finally accepting that I am no longer a spring chicken. 'Growing old gracefully' I call it. Aka is fine - we visited him last Saturday. We are looking forward to seeing you in December, although worrying how to fit everyone into the small house. Olive's friend wants to come visit which is exciting. We'll manage somehow. Probably spend some time in Awka depending on the security situation. I will probably be on holiday this Christmas for a change and I am looking forward to being able to relax at home and not work across Christmas like last year. \r\n\r\nThat's about all I can think of right now. Pretty routine but good nonetheless. \r\n\r\nTake care and study hard.\r\n\r\nLove xxx\r\n\r\nMummy. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1353451566288,
+      "content": "____________ A line! There you go. \n\nHey mummy,\n\nI'm doing great! Classes are good. Slowly figuring out what direction I'm heading towards. Gets kinda hectic at times, but I'm used to that. Thanksgiving this week, so there's time to relax.\n\nWhat's happening at home? Fill me in.\n\nKene\n\n\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1353351024734,
+      "content": "Hi Kene. How are things with you? Its been a while. Drop a line please, let me know how you are doing. \n\nLove,\n\nMummy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1351521517770,
+      "content": "Hi Mummy,\n\nGlad the surgery went well. Hope you guys are all good. Sandy isn't really set to hit too hard here. Max wind gusts at about 80 kmph. Slim chance of a power outage, but there's a whole procedure to deal with that. Will be fine. Thanks for asking. \nSee you,\nKene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1351495876025,
+      "content": "'let us know' I meant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1351495802436,
+      "content": "Hi Kene. How are you doing? Is Sandy coming your way? We (Aka, Elo and I) are in Norwich with Ojay. He had surgery on his knee Friday. It went well. Drop a line, let us one what's up with the hurricane. \nLove xx\nMummy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1348871455192,
+      "content": "Thanks for letting me know. I  will call on Sunday. I am in Ibadan for a workshop; leaving tomorrow back to Abuja. Hope you are doing well. Talk Sunday. \r\n\r\nTake care,\r\nLovexx\r\nMummy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1348868907304,
+      "content": "Hi Mummy,\nHow are you? School is fine. I changed my number and thought to let you know. It's now +19179716685. Bye then. Love you\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1346433336662,
+      "content": "Okay, that's great. Keep me posted then.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1346433287052,
+      "content": "I am in the Holiday Inn close to the airport. Its nicer than the Heathrow Lodge, more of a proper hotel. Flight leaves at 6am. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1346420239133,
+      "content": "Hi. Okay then > hope you didn't have to stay in a Heathrow Lodge-like place. What time is your flight again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1346406945805,
+      "content": "I will go find somewhere to sleep. I may not be able to call from here, trying to conserve money. I will keep you posted via FB and we can talk tomorrow when I get to Abuja. Take care xx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1346406798043,
+      "content": "Hi Kene. I just arrived London. Hope you are fine. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1251640373000,
+      "content": "hey mum.....rili bad news here......my phone got stolen due to some stupid mistakes of mine........i was walking in front of everyone and then a guy came to me and started begging for money..i kept telling him i didnt have..guess i should have shouted like daddy said..well he eventually left me and took an okada...a few seconds l8r i noticed it was gone....i feel rili bad and cant get over it..rili sorry....well,''we could never learn to be brave and patient if there were only joy in the world''...please can u tell daddy so he desnt keep trying to call me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ibari Joanna Nwosu",
+      "timestamp_ms": 1245081519000,
+      "content": "Hello Kene. How are you doing? I hope its not been too boring for you over there. We started the course this morning and have just finished for today. I rented a bicycle for 2.50 euros (for the week) and I am about going out now to explore the town and see if I can find a charger for my phone (I think I forgot mine in Reddish). Everyone rides bicycles here and there are special tracks for them along the roadside, and bicycle stands at almost all the public buildings. Did your Daddy call you? I sent him the number. I may not be able to call today because my battery is almost flat, but if I find a charger this evening I may call. Otherwise tomorrow. Trying to save credit too. \nTake care then and greet Auntie Akunna for me.\nLove,\nMummy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ibari Joanna Nwosu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ibarijoannanwosu_usgw4yghta"
+}

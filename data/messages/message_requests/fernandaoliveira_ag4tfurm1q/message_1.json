@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Fernanda Oliveira"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernanda Oliveira",
+      "timestamp_ms": 1558855175412,
+      "content": "Hello Kene, I saw your post about the vacant room in your apartment and would like to know if is it possible to rent it from September onwards.\nThanks!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fernanda Oliveira",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/fernandaoliveira_ag4tfurm1q"
+}

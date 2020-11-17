@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Eniola Damilola Adebanjo"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eniola Damilola Adebanjo",
+      "timestamp_ms": 1456790633383,
+      "content": "Hello",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eniola Damilola Adebanjo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/enioladamilolaadebanjo_0w6zgag-jw"
+}

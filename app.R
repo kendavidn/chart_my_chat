@@ -1,49 +1,69 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
 
-library(shiny)
+library(pacman)
+p_load(
+    "shiny",
+    "shinydashboard",
+    "highcharter",
+    "shinyWidgets",
+    "gapminder",
+    "tidyverse"
+)
 
-# Define UI for application that draws a histogram
-ui <- fluidPage(
 
-    # Application title
-    titlePanel("Old Faithful Geyser Data"),
-
-    # Sidebar with a slider input for number of bins 
-    sidebarLayout(
-        sidebarPanel(
-            sliderInput("bins",
-                        "Number of bins:",
-                        min = 1,
-                        max = 50,
-                        value = 30)
+ui <- dashboardPage(
+    dashboardHeader(
+        title = "Country Trends for the Top 40 Countries",
+        titleWidth = "95vh",
+        # replacement for dropdown menu
+        tags$li(
+            class = "dropdown",
+            tags$li(HTML("<a href='https://www.w3schools.com/' target= '_blank' >About</a>")
+            )
+        )
+    ),
+    dashboardSidebar(disable = TRUE),
+    dashboardBody(
+        fluidRow(
+            column(
+                width = 10,
+                pickerInput(
+                    inputId = "selected_country",
+                    label = "select countries",
+                    selected = unique(gapminder$country)[1],
+                    multiple = F,
+                    choices = unique(gapminder$country) %>% as.character(),
+                    width = "100%"
+                )
+            )
         ),
-
-        # Show a plot of the generated distribution
-        mainPanel(
-           plotOutput("distPlot")
+        fluidRow(
+            column(
+                width = 12,
+                column(width = 07, highchartOutput("linegraph1", height = "600px")),
+                column(width = 05, highchartOutput("linegraph2", height = "600px"))
+            )
         )
     )
 )
 
-# Define server logic required to draw a histogram
+
+
+
+
 server <- function(input, output) {
-
-    output$distPlot <- renderPlot({
-        # generate bins based on input$bins from ui.R
-        x    <- faithful[, 2]
-        bins <- seq(min(x), max(x), length.out = input$bins + 1)
-
-        # draw the histogram with the specified number of bins
-        hist(x, breaks = bins, col = 'darkgray', border = 'white')
+    output$linegraph1 <- renderHighchart({
+        gapminder %>%
+            filter(country == input$selected_country) %>%
+            hchart("line", hcaes(x = year, y = lifeExp, group = country, color = country))
+    })
+    
+    output$linegraph2 <- renderHighchart({
+        gapminder %>%
+            filter(country == input$selected_country) %>%
+            hchart("line", hcaes(x = year, y = lifeExp, group = country, color = country))
     })
 }
 
-# Run the application 
+
+# Run the application
 shinyApp(ui = ui, server = server)

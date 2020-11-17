@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Fejiro Oruerio"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fejiro Oruerio",
+      "timestamp_ms": 1324849932337,
+      "content": "KENEEEEEEEEEEEEEEEEEEEEEEEEE!!!merry xmas",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fejiro Oruerio",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fejirooruerio_th5eqtb4jg"
+}

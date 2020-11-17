@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Chris Okonji"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Okonji",
+      "timestamp_ms": 1565908231639,
+      "content": "Heey Kene is your room available from September?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chris Okonji",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/chrisokonji_aiwwsiebaa"
+}

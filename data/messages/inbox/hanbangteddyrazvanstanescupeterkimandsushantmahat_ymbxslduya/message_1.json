@@ -1,0 +1,130 @@
+{
+  "participants": [
+    {
+      "name": "Han Bang"
+    },
+    {
+      "name": "Teddy Razvan Stanescu"
+    },
+    {
+      "name": "Peter Kim"
+    },
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Sushant Mahat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1459427614636,
+      "content": "Sushant Mahat added Peter Kim to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Peter Kim"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1459421723642,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Teddy Razvan Stanescu",
+      "timestamp_ms": 1459401269417,
+      "content": "Not going, too little sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1459335258022,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Teddy Razvan Stanescu",
+      "timestamp_ms": 1459330233923,
+      "content": "Not going, too cold",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1458989532457,
+      "content": "Lol cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Teddy Razvan Stanescu",
+      "timestamp_ms": 1458989305124,
+      "content": "Hey dudes, didn't get enough sleep last night, I'm passing today :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1458951902361,
+      "content": "cant tomorrow sorry!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1458936570803,
+      "content": "noice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Han Bang",
+      "timestamp_ms": 1458936527612,
+      "content": "I'll do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Teddy Razvan Stanescu",
+      "timestamp_ms": 1458918201692,
+      "content": "Sweeet, sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1458918155823,
+      "content": "will send a text/msg right before I head out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1458918143879,
+      "content": "I will make my way to Main tomoroow then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1458918138796,
+      "content": "noice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Teddy Razvan Stanescu",
+      "timestamp_ms": 1458908835322,
+      "content": "I'm downnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sushant Mahat",
+      "timestamp_ms": 1458908553913,
+      "content": "Yo guys I have talked to you all in the past about the possibility of running every mornings at around 7:15 ish. I am thinking of  starting tomorrow. Tell me if you are interested",
+      "type": "Generic"
+    }
+  ],
+  "title": "Han Bang, Teddy Razvan Stanescu, Peter Kim and Sushant Mahat",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/hanbangteddyrazvanstanescupeterkimandsushantmahat_ymbxslduya"
+}

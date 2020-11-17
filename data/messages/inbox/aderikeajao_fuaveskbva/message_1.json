@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Aderike Ajao"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aderike Ajao",
+      "timestamp_ms": 1352591585911,
+      "content": "4134615051",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aderike Ajao",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/aderikeajao_fuaveskbva"
+}

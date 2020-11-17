@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Sara Botero Mesa"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sara Botero Mesa",
+      "timestamp_ms": 1547037022722,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sara Botero Mesa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/saraboteromesa_ghmiysrhaw"
+}

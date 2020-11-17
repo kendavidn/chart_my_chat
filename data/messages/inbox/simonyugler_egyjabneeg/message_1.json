@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Simon Yugler"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1468210790499,
+      "content": "Thanks thanks! All noted. Sounds like you had a blast. Despedida party in village today and folks got a little teary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Simon Yugler",
+      "timestamp_ms": 1468160700305,
+      "content": "Yo Kene! Yea man, just finished up! Been staying at Rancho Margot since it ended. Rafting isn't really a thing they do, but they can refer you to someone. Ranch tour takes about 1.5 hours. Kayak about 2. Horses you will need at least 3 groups at different times. I've been told rafting is the bomb. Kayaking is pretty meh to be honest. Do the ranch tour for sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1468160147485,
+      "content": "Hey Simon! Done with trip yet? My coleader and I are trying to plan out our three days at Rancho and were hoping for some advice. We're tryna fit in whitewater raftkng activity but not sure which day would be best. How long were the ranch tour, horses and kayaking? How much other stuff is there to do at the ranch? Could we do the horses and kayaks on the same day we get in? Any other recommendations ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Simon Yugler",
+      "timestamp_ms": 1466897685068,
+      "content": "Yo! The number is 89925335. We got surf lessons at Playa Grande with Frijoles Locos. Still not sure what time were coming back here, but we'll keep and touch and your welcome to come to dinner w us!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1466864689983,
+      "content": "Hey Simon, any chance I could get your costa rica phone number? Might have questions down the line? What is your plan for the kids today?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Simon Yugler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/simonyugler_egyjabneeg"
+}

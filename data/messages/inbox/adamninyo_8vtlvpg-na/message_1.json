@@ -1,0 +1,874 @@
+{
+  "participants": [
+    {
+      "name": "Adam Ninyo"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1480286477914,
+      "content": "Wanna be in charge of my senior photo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1480286470695,
+      "content": "kene!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478474361175,
+      "content": "Hey sorry to bother. Know when you'll be back yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478454493641,
+      "content": "I'll come to your place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478454480796,
+      "content": "Sweet thanks so much! Let me know when you get in?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1478453876506,
+      "content": "Probably can do that. I should be around at dinnertime.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1478439038493,
+      "content": "Heyy!! I gotta videotape a lesson for my teaching certification on Monday morning and in dire need of a camera with a decently wide angle lens. Any chance you could lend me yours?? I'd grab it this evening and bring it back to vassar tomorrow evening. Also, I'm around until like 7 this evening. Wanna grab lunch or something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1477465176440,
+      "content": "Yep. No prob. Next time man.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1477349630730,
+      "content": "Was it your birthday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1477349623607,
+      "content": "Ahhh sorry ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1477064006436,
+      "content": "yo, are you still in the city?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474552912775,
+      "content": "Ah. Man.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474550223736,
+      "content": "naw only there Monday evenings :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474510948454,
+      "content": "Hey! Are you still at vassar?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085934548,
+      "content": "excellent...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474085923796,
+      "content": "Aite sweet. Expect me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085904648,
+      "content": "october 21st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474085890133,
+      "content": "Ahh partaay! when?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085864227,
+      "content": "Get one, come on my 21st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474085623833,
+      "content": "nah may get one once I have some spare change though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085598369,
+      "content": "sounds good! do you have a fake?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474085308076,
+      "content": "yeah until december! I'll be at vassar Monday evenings though if you really miss me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085123244,
+      "content": "you gonna be there in october?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474085112927,
+      "content": "In NYC now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1474085109311,
+      "content": "Yo! Naw I left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085091662,
+      "content": "You on campis?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1474085087500,
+      "content": "Kene!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464837299795,
+      "content": "No worries. Lemme know.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464837245184,
+      "content": "I'll know better by tomorrow eve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464837240073,
+      "content": "so there's a tiny chance I may end up not coming to NY. just wanted to give you a heads up in advance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464831241593,
+      "content": "Sounds good.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464829933207,
+      "content": "Dope Sunday night is the tentative date (this sunday). I'd take the learners permit test on Monday and be out on the same day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464829841311,
+      "content": "That should be totally fine. Lemme know when you need to crash.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464829503385,
+      "content": "but I have other folks I could stay with then so no need to worry that far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464829473849,
+      "content": "I may be then come back much later to take the actual driving test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464829448592,
+      "content": "Any chance I could crash at yours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464829443109,
+      "content": "Hey man! So turns out I need to get a learners permit then license from NY for my summer job and I'll need a place to stay Sunday night so I can handle that Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464388625274,
+      "content": "Ah great. Sorry again!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464388603818,
+      "content": "No worries. Found a replacement.  No fines.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464388035760,
+      "content": "Yooo so sory went out with family and didn't charge phone. I'll pay if you get a fine!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464379122124,
+      "content": "?????????????????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464376451754,
+      "content": "I need that card immediately",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464375385613,
+      "content": "Kene????????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1464368524610,
+      "content": "hey, I need to get that flashdrive back this afternoon.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261463171,
+      "content": "Yep.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463261400462,
+      "content": "today? sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261388794,
+      "content": "Btw, you should come to our sketchy party later...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261296654,
+      "content": "That'd be perfect.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463261281108,
+      "content": "I could bike in like 30 mins to yours?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463261263974,
+      "content": "oooh was gonna ask daniel for his 5100 but ill treat your 70d like my only baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261248054,
+      "content": "Which is a pretty damn solid camera - with an 18-135 mm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261223449,
+      "content": "I trust you Kene, so I can also lend you a 70d.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261206648,
+      "content": "Sorry, this is it: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Rode+Microphones+Video+Mic+Pro+RODVMPR&stick=H4sIAAAAAAAAAG3MuRGEUAwE0QKLWhOwfhQ6ZjRSphsuBIDfr4_feeUkjKKNQUCAvi66VG5FyANlKKzbY4rqqeCbjciq9e2bkQhjdprMvDLWiQzv5rS_W_kQ_317ADZLWhKDAAAA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463261189709,
+      "content": "damn mirrorless",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463261181649,
+      "content": "actually hold on my camera doesnt have 3.5 output lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261113617,
+      "content": "When can you get it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463261006009,
+      "content": "Nice, nice. Rode mic pro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463261001642,
+      "content": "what the model?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463260996484,
+      "content": "ill be super careful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463260967977,
+      "content": "shooting some concert tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463260950301,
+      "content": "What do you need it for?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463260934590,
+      "content": "oooh savior",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463260914888,
+      "content": "Yesss...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1463260909079,
+      "content": "yeah you got me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1463260899264,
+      "content": "You're looking for a shotgun mic?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1462638623371,
+      "content": "Ah. We're checking the field.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1462637784714,
+      "content": "We're at adit house th 96",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1462597647913,
+      "content": "Yes...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1462595712109,
+      "content": "Wanna come over midday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1462595705338,
+      "content": "Only like .1 g tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1462595691251,
+      "content": "Actually plan change. David has some molly so gonna roll ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1462592988725,
+      "content": "Ah. More specifically?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1462591167880,
+      "content": "Just drinking ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1462581874920,
+      "content": "Hey, what are your founders day plans?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1461981575995,
+      "content": "Human centipede.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1461980384632,
+      "content": "Not sure yet. Recommendations?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1461979712392,
+      "content": "Ah. What you gonna watch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1461978855138,
+      "content": "Mm yeah don't really have plans. Was gonna smoke and watch tv. I could accompany you out for a bit if you want a buddy tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1461978666890,
+      "content": "I dunno, maybe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1461978523732,
+      "content": "Are things happening?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1461978460651,
+      "content": "Hey, are you going out tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1446494172099,
+      "content": "I think he gets back soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1446493599236,
+      "content": "*mittman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1446493595809,
+      "content": "is mitten there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1446493565328,
+      "content": "ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1446492646153,
+      "content": "are you gonna be in your th at 3? I need to get into mittman's room to collect something.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1446492571622,
+      "content": "are you gonna be in your th at 3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1446409530416,
+      "content": "sure man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1446407804222,
+      "content": "meet at your house at 6.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1446244261505,
+      "content": "no p!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1446227174017,
+      "content": "hey, so our first shoot has been pushed back to sunday at 530ish.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445979675965,
+      "content": "your house or where do you wanna do it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445979650545,
+      "content": "Yeah 530 should be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445884173420,
+      "content": "would you be able to do the rehearsal tomorrow rather than tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445807309140,
+      "content": "cool, we'll meet at your house then.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445804237974,
+      "content": "yeah thatd be ideal!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445804223665,
+      "content": "Do you want to do it at your house?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445804162531,
+      "content": "ok.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445804156976,
+      "content": "6?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445804150349,
+      "content": "530 or 6?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445804141447,
+      "content": "early! gotta work at 7:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445804124850,
+      "content": "yo, what time works for you tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445715834421,
+      "content": "ah, ok.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445715403566,
+      "content": "damn don't think so. Prepping for the thing now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714798329,
+      "content": "wait, would you be down to do a rehearsal now-ish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714575908,
+      "content": "yessss.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445714355682,
+      "content": "yeah that should be good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714302326,
+      "content": "*?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714300975,
+      "content": "sexcellent, does early evening work>",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445714239043,
+      "content": "yeah I think my tomorrow is pretty free",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714218655,
+      "content": "fuuuuuuuuuuuuuuuuuuuuuck? what about tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445714210515,
+      "content": "and I can't guarantee that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445714202989,
+      "content": "10:30 probably",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714191235,
+      "content": "what's the earliest you can do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445714177853,
+      "content": "na I'm working on a radio show then :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445714161110,
+      "content": "can you do earlier tonight like 7 or 8?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445714142720,
+      "content": "yeah maybe like 11? I haven't really looked at the script yet though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445713294553,
+      "content": "wanna do a rehearsal tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445127739506,
+      "content": "yeah I'm cool with whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445127604749,
+      "content": "This is the assignment the professor gabe us. It is a very simple, normal scene. It's the one where he dumps his wife partway through.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126915330,
+      "content": "let's just go with a simple tight plot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126902293,
+      "content": "my entire career",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126896091,
+      "content": "lol dawg. That's a weird theme you just dropped there man. I'm tryna be a mainstream star. Don't wanna get held up doing indie shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126849777,
+      "content": "The film is supposed to be an interpretation of one scene from the film. Your performance should be totally different. You'll be better than DiCaprio.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126804111,
+      "content": "Am I gonna be the equiv of dicaprio?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126795578,
+      "content": "Is dicaprio gonna be my guide",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126776711,
+      "content": "Should I rewatch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126772221,
+      "content": "yeah yeah drunk watched tho so I dont remember detes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126746059,
+      "content": "I shall send the script tomorrow. Have you ever seen the wolf of wall street?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126730589,
+      "content": "But I'm 80% in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126723266,
+      "content": "Okay send me the script and I'll get back to you when I'm soberer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126703901,
+      "content": "I certainly plan on it being the former.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126696451,
+      "content": "Or like reid-type darge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126687945,
+      "content": "As in good production and shit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126679436,
+      "content": "shiiitt. Will it be something my future wife and I would watch and be impressed at my acting skills??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126632855,
+      "content": "it's a couple pages. It'll be a bit of a time commitment over the next couple weeks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126598803,
+      "content": "How many pages? never done more than a few lines. But hopefully you typecast me so I'll just channel my inner kene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126560476,
+      "content": "Can you memorize dialogue?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126555045,
+      "content": "well, one of them.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126552792,
+      "content": "sign me up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126533849,
+      "content": "yesssssss....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1445126523516,
+      "content": "am i the lead am I the lead?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Ninyo",
+      "timestamp_ms": 1445126498734,
+      "content": "kenechukwu, wanna be in a film?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adam Ninyo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/adamninyo_8vtlvpg-na"
+}

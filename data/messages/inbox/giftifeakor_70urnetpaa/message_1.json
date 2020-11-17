@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Gift Ifeakor"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gift Ifeakor",
+      "timestamp_ms": 1456861765229,
+      "content": "hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gift Ifeakor",
+      "timestamp_ms": 1312110394079,
+      "content": "Hi...",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gift Ifeakor",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/giftifeakor_70urnetpaa"
+}

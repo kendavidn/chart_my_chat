@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sophie Hessekiel"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sophie Hessekiel",
+      "timestamp_ms": 1365190043252,
+      "content": "Or just wherever is good for you, doesn't need to be the retreat haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sophie Hessekiel",
+      "timestamp_ms": 1365189926365,
+      "content": "Hey! Wanna meet at 5 in the retreat to exchange the phone?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sophie Hessekiel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sophiehessekiel_tlhzugv5wq"
+}

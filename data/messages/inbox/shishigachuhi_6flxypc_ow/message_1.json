@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Shishi Gachuhi"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1460175784605,
+      "content": "Sorry not anymore thanks ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shishi Gachuhi",
+      "timestamp_ms": 1460175740792,
+      "content": "let me know if you are bringing stuff tonight or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shishi Gachuhi",
+      "timestamp_ms": 1460175132161,
+      "content": "I am still up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1460171048987,
+      "content": "also, are you home?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1460171039936,
+      "content": "Hey when are you gonna be up till?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shishi Gachuhi",
+      "timestamp_ms": 1460164159895,
+      "content": "yeah...no problem!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shishi Gachuhi",
+      "timestamp_ms": 1460164146769,
+      "content": "Sorry for the delayed reply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shishi Gachuhi",
+      "timestamp_ms": 1460164129424,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shishi Gachuhi",
+      "timestamp_ms": 1460164123059,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1460162952028,
+      "content": "Hey shishi! Would you mind if we stored some asu stuff in your room since you live in main",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shishi Gachuhi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/shishigachuhi_6flxypc_ow"
+}

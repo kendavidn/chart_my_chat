@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Emma-obi Ikechukwu"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344976111162,
+      "content": "Buh i heard racism there's too high. Lol...plus some other stuff like they dnt teach well. Lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344975378785,
+      "content": "vassar in NY...Just checked the schools out... seem quite nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344975327714,
+      "content": "Kharkiv and sumy. Where are u heading to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344974778783,
+      "content": "lol...its part of life...you'll be done before you know it...Which schools are you looking at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344974684472,
+      "content": "this ukrain app thiing's stressful.lol..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344974674953,
+      "content": "boredom's killlin me.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344974649249,
+      "content": "you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344974646748,
+      "content": "yeah, I am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344974633419,
+      "content": "wah r u up to?? and are u in naij??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344974626421,
+      "content": "am cool bruv..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344974570740,
+      "content": "embo,, how far",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344974533890,
+      "content": "kene, abeg wah was ur score?? waec??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344171025017,
+      "content": "hw far?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emma-obi Ikechukwu",
+      "timestamp_ms": 1344171019498,
+      "content": "david.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Emma-obi Ikechukwu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/emmaobiikechukwu_xl_vfzswnw"
+}

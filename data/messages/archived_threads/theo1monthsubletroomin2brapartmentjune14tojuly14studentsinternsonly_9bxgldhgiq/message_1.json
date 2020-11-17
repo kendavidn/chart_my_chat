@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Th\u00c3\u00a9o Gautier"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1558856942797,
+      "content": "You left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kene David Nwosu"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1558802990285,
+      "content": "hey sorry for the slow response I got a lot of messages. Someone has grabbed it unfortunately.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Th\u00c3\u00a9o Gautier",
+      "timestamp_ms": 1558531134997,
+      "content": "Th\u00c3\u00a9o is waiting for your response.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Th\u00c3\u00a9o Gautier",
+      "timestamp_ms": 1558508751354,
+      "content": "Bonjour, je suis etudiant et je vais faire un stage a geneve cet ete. Je recherche une colloc ou",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Th\u00c3\u00a9o Gautier",
+      "timestamp_ms": 1558508749045,
+      "content": "Th\u00c3\u00a9o changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Th\u00c3\u00a9o Gautier",
+      "timestamp_ms": 1558508748141,
+      "content": "Th\u00c3\u00a9o named the group Th\u00c3\u00a9o \u00c2\u00b7 1 month sublet, room in 2br apartment (June 14 to July 14). Students/Interns only.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Th\u00c3\u00a9o \u00c2\u00b7 1 month sublet, room in 2br apartment (June 14 to July 14). Students/Interns only",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/theo1monthsubletroomin2brapartmentjune14tojuly14studentsinternsonly_9bxgldhgiq"
+}

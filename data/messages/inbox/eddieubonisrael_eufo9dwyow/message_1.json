@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Eddie Ubon Israel"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eddie Ubon Israel",
+      "timestamp_ms": 1484501717002,
+      "content": "Oh nice.. still in sa. With chief.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1484496570052,
+      "content": "where are you at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1484496566594,
+      "content": "biology and physics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1484496555654,
+      "content": "Yeah in california now tryna be a teacher",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Ubon Israel",
+      "timestamp_ms": 1484479023787,
+      "content": "Good .. good. And you ?. Still in the states?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1484456853868,
+      "content": "how's life?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1484456851415,
+      "content": "happy new year to you too!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eddie Ubon Israel",
+      "timestamp_ms": 1484413803544,
+      "content": "Kene!.happy new year..",
+      "type": "Generic"
+    }
+  ],
+  "title": "Eddie Ubon Israel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/eddieubonisrael_eufo9dwyow"
+}

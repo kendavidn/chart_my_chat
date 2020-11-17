@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Shaban Bani Kosova"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shaban Bani Kosova",
+      "timestamp_ms": 1562034826106,
+      "content": "Shaban is waiting for your response.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shaban Bani Kosova",
+      "timestamp_ms": 1562012028692,
+      "content": "Cet article est-il disponible ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shaban Bani Kosova",
+      "timestamp_ms": 1562012026087,
+      "content": "Shaban changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shaban Bani Kosova",
+      "timestamp_ms": 1562012025731,
+      "content": "Shaban named the group Shaban \u00c2\u00b7 Room in 2br apartment  June 15 to June 16.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shaban \u00c2\u00b7 Room in 2br apartment  June 15 to June 16",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/shabanroomin2brapartmentjune15tojune16_lj-lqnu6zg"
+}

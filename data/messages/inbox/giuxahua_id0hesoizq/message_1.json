@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Giux \u00c4\u0080hua"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1558802978704,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1558802978643,
+      "content": "hey sorry for the slow response I got a lot of messages. Someone has grabbed it unfortunately.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giux \u00c4\u0080hua",
+      "timestamp_ms": 1558426483685,
+      "content": "je viensy de voir ton annonce pour le logement elle est toujours dactualit\u00c3\u00a9?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Giux \u00c4\u0080hua",
+      "timestamp_ms": 1558426455262,
+      "content": "bonjour comment vas-tu",
+      "type": "Generic"
+    }
+  ],
+  "title": "Giux \u00c4\u0080hua",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/giuxahua_id0hesoizq"
+}

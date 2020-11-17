@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lucrezia Giallorenzo"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucrezia Giallorenzo",
+      "timestamp_ms": 1560515295034,
+      "content": "Hi Kane, \nMy name is Lucrezia I am an intern at UNHCR. Before working for free ahah I studied in the states for my bachelor where I graduated in 2016 right after I moved to DC for my MA and then to London for my LLM form which I graduated just last January. In April I started my adventure at UNHCR. I am currently in DC until July 18th for summer school meaning that I am working remotely during the day for UNHCR and studying at night. \nI am very interested in your offer. I will be i Geneva until October 31st with possible extension until December. \nI am looking forward to hearing from you. \nBests, \nLucrezia",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lucrezia Giallorenzo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "filtered_threads/lucreziagiallorenzo_p_jc35thnq"
+}

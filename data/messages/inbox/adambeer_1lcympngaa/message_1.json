@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Adam Beer"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adam Beer",
+      "timestamp_ms": 1464887857467,
+      "content": "Are you traveling this summer? That'll be dope are you teaching grade school or what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464816185490,
+      "content": "Gonna be a nomad throughout summer but ill be student teaching next semester in nyc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Beer",
+      "timestamp_ms": 1464792673054,
+      "content": "Where are you gonna be living?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Beer",
+      "timestamp_ms": 1464792645405,
+      "content": "yeah I graduated the 14th, thanks man! Definitely some mixed feelings about graduating.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464727863414,
+      "content": "*You're done right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1464727853542,
+      "content": "Hey man! Congrats too! (You're some right) The post grad mix of freedom uncertainty and anxiety is great ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Adam Beer",
+      "timestamp_ms": 1464706880780,
+      "content": "hey man, congrats on graduating from college! hope all is well for ya kene",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adam Beer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/adambeer_1lcympngaa"
+}

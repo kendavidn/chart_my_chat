@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shriya Patnaik"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shriya Patnaik",
+      "timestamp_ms": 1560503150035,
+      "content": "Hello I'm an incoming PhD student to The Graduate Institute and saw your ad for the room sublet. I'm really interested and would like to see the place, for a long-term lease from August or September onwards. I'm in Geneva from June 19 to 23 and would like a tour of the place, if possible. Do let me know if we can discuss further!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shriya Patnaik",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/shriyapatnaik_p27cms5gpg"
+}

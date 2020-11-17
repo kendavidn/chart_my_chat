@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Shungita Cee"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1365264673426,
+      "content": "also I just saw the message I sent you last semester. lololol is all i can say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1365262301366,
+      "content": "Hey Contessa,\nwhat time are you guys planning to go over to the AFrican store?  I was wondering if you would help me pick up on or two things?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1350402731203,
+      "content": "Hey Contessa! Hope you don't think you friend requested a drunk. I'm usually more on the sober side. Sorry for stealing your roommate's beer yesterday :(  .. See you thursday!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shungita Cee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/shungitacee_kbdt9xvqyg"
+}

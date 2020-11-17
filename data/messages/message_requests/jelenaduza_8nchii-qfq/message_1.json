@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jelena Duza"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jelena Duza",
+      "timestamp_ms": 1558864534601,
+      "content": "Hi Kene, I'm interested! Please could you send me pictures? Thanks :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jelena Duza",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/jelenaduza_8nchii-qfq"
+}

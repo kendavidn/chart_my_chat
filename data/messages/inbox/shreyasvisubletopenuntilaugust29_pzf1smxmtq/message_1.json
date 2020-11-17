@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Shreyasvi Natraj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1564939445430,
+      "content": "What dates are you looking for?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1564939444763,
+      "content": "Hey shreyasvi it's available still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyasvi Natraj",
+      "timestamp_ms": 1564651431740,
+      "content": "Ok thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1564651407414,
+      "content": "Heya there is someone ahead of you on the line but I will let you know if they don't take it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyasvi Natraj",
+      "timestamp_ms": 1564646158048,
+      "content": "Is this item still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyasvi Natraj",
+      "timestamp_ms": 1564646156909,
+      "content": "I'm interested in this item.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyasvi Natraj",
+      "timestamp_ms": 1564646155826,
+      "content": "Shreyasvi changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyasvi Natraj",
+      "timestamp_ms": 1564646155581,
+      "content": "Shreyasvi named the group Shreyasvi \u00c2\u00b7 Sublet open until August 29.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shreyasvi \u00c2\u00b7 Sublet open until August 29",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/shreyasvisubletopenuntilaugust29_pzf1smxmtq"
+}

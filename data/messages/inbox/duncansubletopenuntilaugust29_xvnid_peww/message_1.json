@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Duncan Chando"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565126361411,
+      "content": "Hi Duncan. Only for august unfortunately",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Duncan Chando",
+      "timestamp_ms": 1565103505436,
+      "content": "I would like to rent in September",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Duncan Chando",
+      "timestamp_ms": 1565103488683,
+      "content": "Is this still available?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Duncan Chando",
+      "timestamp_ms": 1565103486531,
+      "content": "Duncan changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Duncan Chando",
+      "timestamp_ms": 1565103486221,
+      "content": "Duncan named the group Duncan \u00c2\u00b7 Sublet open until August 29.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Duncan \u00c2\u00b7 Sublet open until August 29",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/duncansubletopenuntilaugust29_xvnid_peww"
+}

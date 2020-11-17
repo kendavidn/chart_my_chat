@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Zuwa Osarenkhoe"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zuwa Osarenkhoe",
+      "timestamp_ms": 1354390093149,
+      "content": "lol i noticed ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354390019136,
+      "content": "ah. thanks. deleted my comments to make you look awkward",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Zuwa Osarenkhoe",
+      "timestamp_ms": 1354389971324,
+      "content": "kene i meant that u dont have any1s skype contact ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zuwa Osarenkhoe",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/zuwaosarenkhoe_znfto1lzga"
+}

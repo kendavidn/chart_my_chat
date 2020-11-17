@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Rafa Nadal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1302938772000,
+      "content": "you can watch it live on my web www.rafaelnadal.com\npuedes verlo en directo en www.rafaelnadal.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1302938767000,
+      "content": "you can watch it live on my web www.rafaelnadal.com\npuedes verlo en directo en www.rafaelnadal.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1302815904000,
+      "content": "Puedes ver el partido en directo en mi web www.rafaelnadal.com\nWatch me live going to my web www.rafaelnadal.com\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1302815808000,
+      "content": "Podeis tambien ver el partido clicando en mi web www.rafaelnadal.com\nYou can also watch the match on the internet going to my web www.rafaelnadal.com",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1302477318000,
+      "content": "3rd day of practice in Monte Carlo. I most probably play first round on Wednesday.\nTercer dia de entrenamiento en Monte Carlo. Seguramente empiezo a jugar el miercoles.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1302303187000,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1301663811000,
+      "content": "Con Carlos Moya en el torneo\nWith Carlos Moya at the tournament site",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rafa Nadal",
+      "timestamp_ms": 1301502345000,
+      "content": "Esta tarde entreno a las 4 de la tarde en el torneo\nI practice this afternoon at 4 pm at the Tennis Tournament",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rafa Nadal",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "filtered_threads/rafanadal_7rhjydn5zq"
+}

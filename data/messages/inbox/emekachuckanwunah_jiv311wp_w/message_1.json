@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Emeka Chuck Anwunah"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1351638616463,
+      "content": "Check Out The Link On My Wall! To See Who Checked Out Your Profile This Month. It Really Works!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Emeka Chuck Anwunah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/emekachuckanwunah_jiv311wp_w"
+}

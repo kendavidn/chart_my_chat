@@ -1,0 +1,394 @@
+{
+  "participants": [
+    {
+      "name": "Efe Eboreime"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1566114615086,
+      "content": "Hey I'm about to temporarily deactivate FB. Can you send me a whatsapp test  at +41779683747?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565918416355,
+      "content": "I did CS so that\u00e2\u0080\u0099s kinda what I\u00e2\u0080\u0099m doing for now..Plan is to go get my masters in a year or two..probably Data Science &Analytics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565918285553,
+      "content": "Application Developer and Systems Analyst",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565918244047,
+      "content": "Houston\u00e2\u0080\u0099s going great so far man..went to school around here so not bad at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565918193392,
+      "content": "Is the plan to eventually go to Med school?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565918160015,
+      "content": "Ahh niceeee..all that stuff sounds super intense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565879219119,
+      "content": "Toronto probably",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Efe Eboreime"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565879210997,
+      "content": "Whatcha doing at Exxon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565879195662,
+      "content": "How'w Houston?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565879190232,
+      "content": "tryna turn it into an epidemiology/biostatistics masters by taking the right classes",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Efe Eboreime"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565879168155,
+      "content": "some public health and a lot of fluff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565879163358,
+      "content": "Masters in Global Health it's called",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Efe Eboreime"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565654034761,
+      "content": "A lot of folks in Canada too...what part?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565653979741,
+      "content": "Started like a year ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565653966787,
+      "content": "I\u00e2\u0080\u0099m working rn in Houston @Exxon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565653913261,
+      "content": "Ah I see..what you doing for your masters?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565599314962,
+      "content": "where you at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565599311274,
+      "content": "Might move to canada soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565599304314,
+      "content": "Doing this silly masters in Geneva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1565599298020,
+      "content": "Yo I dey!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565394809066,
+      "content": "Been ages my man...how u been?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1565394786580,
+      "content": "Yooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1355700840428,
+      "content": "kene ff @efe_eboreime",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354992292807,
+      "content": "I'm off now...we go yan when I reach naij tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354992034354,
+      "content": "sound good bro...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354992007377,
+      "content": "scheduled to write SAT IN JANUARY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991988896,
+      "content": "i have sent all my ish ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991971755,
+      "content": "Whaddup with your uni things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991955964,
+      "content": "lol..just hold on tight. you'll pull through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991925358,
+      "content": "for some past bad habits but since he did not handle those cases he  could not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991887291,
+      "content": "the principal guy almost expelled obano too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991866001,
+      "content": "the reason was cuz the  guy had a former dubbing case",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991762425,
+      "content": "damn. he was a good kid though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991732554,
+      "content": "http://www.facebook.com/ck.chukwueke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991641195,
+      "content": "who's that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991624567,
+      "content": "ck chukwueke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991614619,
+      "content": "he calls it the zero tolerance policy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991599783,
+      "content": "ouch..who",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991586037,
+      "content": "the guy jst expelled someone in my set fot dubbing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991564255,
+      "content": "but our new principal is sent from hell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991543030,
+      "content": "hence the message",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991542459,
+      "content": "ss3 is good ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991533880,
+      "content": "i jst came back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991532873,
+      "content": "I'm good..What's up with you...SS3 and all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1354991496456,
+      "content": "go back to school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1354991482943,
+      "content": "guy hw fr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344807902415,
+      "content": "registeres for biology, astronomy, english, philosophy and chemsitry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807850853,
+      "content": "sp wat course would u like to take",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344807635314,
+      "content": "i have two years before I have to declare a major. In the meantime, I can take any courses I like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807596765,
+      "content": "wat will u do for the mean time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807576270,
+      "content": "then why r u going to uni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344807555605,
+      "content": "i dont know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807550247,
+      "content": "studying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807536047,
+      "content": "guy wat r u stydykng",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344807499626,
+      "content": "going to england on the 17th..then new york on 24th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807423262,
+      "content": "wen r u goin 2 skul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807412645,
+      "content": "im gud",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1344807405579,
+      "content": "efe..waddup?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344807390442,
+      "content": "hw fr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Efe Eboreime",
+      "timestamp_ms": 1344369659620,
+      "content": "hw fr",
+      "type": "Generic"
+    }
+  ],
+  "title": "Efe Eboreime",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/efeeboreime_uxwmwgp7-q"
+}

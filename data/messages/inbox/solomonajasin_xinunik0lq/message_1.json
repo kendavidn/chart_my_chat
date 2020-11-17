@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Solomon Ajasin"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1442381980298,
+      "content": "Solomon sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/segun.williams.7/videos/906976356016676/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1442160298028,
+      "content": "Ok I'll read the article today and get back to you ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442160276389,
+      "content": "hahaha. That's pretty funny (I swear I didn't know that). If you're gonna do any slides we should probably combine 'em into one powerpoint.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1442160216474,
+      "content": "You get the short article, my mom's birthday is the 14th ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442160143077,
+      "content": "(mum's actual birthday is the 5th). Here's e-mail evidence",
+      "photos": [
+        {
+          "uri": "https://interncache-atn.fbcdn.net/v/t34.18173-12/fr/q65/11998215_10207946334843252_1878698557_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=6827c3ebb41bc0219963c9b5ca3ad276&oe=5F7B742D",
+          "creation_timestamp": 1442160130
+        }
+      ],
+      "type": "Generic",
+      "ip": "143.229.241.203"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442160081097,
+      "content": "14",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1442160008795,
+      "content": "31",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442158114222,
+      "content": "Whoever is closer to actual date gets the short article.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442158098698,
+      "content": "How about this? We both toss out a number btw 1 and 31, tryna guess each person's mum's birthday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442158040032,
+      "content": "Obv the Mcgrath Solter. It's like a fifth the length of the other. We should make it fair though. Coin toss or something.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1442157770561,
+      "content": "Which would you prefer ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442156551801,
+      "content": "Lemme know which article you'ds wanna do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442156515740,
+      "content": "Wanna do that? It'll make things easier I think since we don't have to meet or coordinate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1442156487814,
+      "content": "yo so it looks like we actually have two articles to cover. And I remember her saying that we could just do them separately, one person for each?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1365344888792,
+      "content": "That's fine man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1365293676371,
+      "content": "sorry bro just seeing this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1365267899664,
+      "content": "Bro what's part of the african fashion show",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1364954903616,
+      "content": "II bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1364954892655,
+      "content": "nope dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1364948907393,
+      "content": "Did you call me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1364941092273,
+      "content": "word i got you ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Solomon Ajasin",
+      "timestamp_ms": 1364936995736,
+      "content": "bros how far now my new number is 3477841327",
+      "type": "Generic"
+    }
+  ],
+  "title": "Solomon Ajasin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/solomonajasin_xinunik0lq"
+}

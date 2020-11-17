@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Kene David Nwosu"
+    },
+    {
+      "name": "Facebook User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1245799105000,
+      "content": "Please guys mail me 1 really good picture of urself i am tryin 2 put a CD together. mail it 2 ogedita@yahoo.com b4 friday. please. thank u\n",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "filtered_threads/facebookuser_xeeyfyuiog"
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sophia Wallach"
+    },
+    {
+      "name": "Kene David Nwosu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sophia Wallach",
+      "timestamp_ms": 1356106290896,
+      "content": "hey so I am not the one organizing that but if you talk to Byron Todman. He is an HFI in Lathrop, he'll know what to do!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kene David Nwosu",
+      "timestamp_ms": 1356069696203,
+      "content": "hey sophia... u still buying books?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sophia Wallach",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sophiawallach_bkimiqdstw"
+}
