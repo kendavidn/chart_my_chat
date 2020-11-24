@@ -32,16 +32,7 @@ source(here("scripts/functions.R"))
 
 #~~ Convert JSON file to a data frame ---- 
 messages_df <- 
-  jsonlite::fromJSON(txt = here("data/message_1.json") ) %>% 
-  .["messages"] %>% 
-  as.data.frame() %>% 
-  as_tibble() %>% 
-  rename(sender = 1, timestamp_ms = 2, content = 3 ) %>% 
-  mutate(content  = iconv(content, from = 'UTF-8', to = 'ASCII//TRANSLIT')) %>% 
-  filter(!str_detect(content, "sent an attachment")) %>% 
-  filter(!str_detect(content, "missed a call from")) %>% 
-  filter(!str_detect(content, "video chat ended")) %>% 
-  mutate(timestamp = ms_to_date(timestamp_ms))
+  jsonlite::fromJSON(txt = here("data/message_1.json") ) %>% json_list_to_clean_df()
 
 
 #~~  who sent more messages? ---- 

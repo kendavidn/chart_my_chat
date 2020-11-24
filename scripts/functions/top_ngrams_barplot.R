@@ -1,6 +1,6 @@
 
 
-top_ngrams_plot <- function(messages_df, max_nb = 20) {
+top_ngrams_barplot <- function(messages_df, max_nb = 20) {
   
   # max_nb = 20
   
@@ -131,9 +131,9 @@ drop_ngrams_with_higher_val_grams <- function(gram_series_for_hc = gram_series_f
     tetragram_count <- pull_max_matched_ngram(gram_series_for_hc, tetragram, tetragram_count, i)
     pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
     
-    if(bigram_count > (trigram_count * 1.8 ) & 
-       bigram_count > (tetragram_count * 1.8 - 0.1) & 
-       bigram_count > (pentagram_count * 1.8 - 0.2)  ){
+    if(bigram_count > trigram_count * 1.8  & 
+       bigram_count > tetragram_count * (1.8 - 0.1) & 
+       bigram_count > pentagram_count * (1.8 - 0.2)  ){
       bigrams_to_keep <- c(bigrams_to_keep, i)
     }
   }
@@ -145,8 +145,8 @@ drop_ngrams_with_higher_val_grams <- function(gram_series_for_hc = gram_series_f
     tetragram_count <- pull_max_matched_ngram(gram_series_for_hc, tetragram, tetragram_count, i)
     pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
     
-    if(trigram_count > (tetragram_count * 1.8 - 0.3 ) & 
-       trigram_count > (pentagram_count * 1.8 - 0.4 )  ){
+    if(trigram_count > tetragram_count * (1.8 - 0.3 ) & 
+       trigram_count > pentagram_count * (1.8 - 0.4 )  ){
       trigrams_to_keep <- c(trigrams_to_keep, i)
     }
   }
@@ -158,7 +158,7 @@ drop_ngrams_with_higher_val_grams <- function(gram_series_for_hc = gram_series_f
     tetragram_count <- gram_series_for_hc %>% filter(tetragram == i) %>% pull(tetragram_count) %>% unique()
     pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
     
-    if(tetragram_count > (pentagram_count * 1.8 - 0.5)  ){
+    if(tetragram_count > pentagram_count * (1.8 - 0.5)  ){
       tetragrams_to_keep <- c(tetragrams_to_keep, i)
     }
   }

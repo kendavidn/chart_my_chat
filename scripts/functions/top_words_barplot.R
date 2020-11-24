@@ -1,5 +1,5 @@
 
-top_words_plot <- function(messages_df, max_nb = 20) {
+top_words_barplot <- function(messages_df, max_nb = 20) {
   
   word_series_for_hc <- 
     messages_df %>%

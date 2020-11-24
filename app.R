@@ -17,23 +17,46 @@ p_load(char = c("DataExplorer",
                 "tidyverse"
 ))
 
+
+
+
+options(highcharter.theme = hc_theme_elementary())
+
+newtheme <- hc_theme_merge(
+    getOption("highcharter.theme"), 
+    hc_theme(chart = list(backgroundColor = "transparent"))
+    )
+
+options(highcharter.theme = newtheme)
+
+# hchart(cars, "scatter", hcaes(speed, dist))
+
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~  Source functions ----
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 source(here("scripts/functions/misc_functions.R"))
-source(here("scripts/functions/top_words_plot.R"))
-source(here("scripts/functions/top_ngrams_plot.R"))
+source(here("scripts/functions/json_list_to_clean_df.R"))
 
-dropdownButtonp <- purrr::partial(
-    dropdownButton,
-    status = "customstatus",
-    size = "sm",
-    right = TRUE,
-    status = "info",
-    width = "400px",
-    inline = TRUE,
-)
+
+# donut plots
+source(here("scripts/functions/word_count_donutplot.R"))
+source(here("scripts/functions/message_count_donutplot.R"))
+
+# message length
+source(here("scripts/functions/avg_msg_length_barplot.R"))
+
+
+# messages over time
+source(here("scripts/functions/msg_freq_over_time_lineplot.R"))
+source(here("scripts/functions/msg_freq_weekly_radialplot.R"))
+
+
+
+# top words and phrases
+source(here("scripts/functions/top_words_barplot.R"))
+source(here("scripts/functions/top_ngrams_barplot.R"))
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~ ui ----
@@ -43,35 +66,45 @@ dropdownButtonp <- purrr::partial(
 ui <-
     dashboardPage(
         
-    dashboardHeader(title = "Analyze your texts today at chartmychats.com", titleWidth = "95vh",
+    dashboardHeader(disable = TRUE, title = "Analyze your texts today at chartmychats.com", titleWidth = "95vh",
                     tags$li(class = "dropdown", tags$li(HTML("<a href='https://www.w3schools.com/' target= '_blank' >About</a>")))),
     dashboardSidebar(disable = TRUE),
     dashboardBody(
+        setBackgroundImage(
+            src = "https://www.fonewalls.com/wp-content/uploads/Lavender-Gradient-Wallpaper.jpg", 
+            shinydashboard = TRUE),
         fluidRow(
-          #  column(width = 12,
-             #      class = "top-buffer",
-                   column(width = 10, 
-                          class = "col-lg-offset-4 col-lg-4 col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10",
+            column(width = 3, 
+                   box(width = NULL,
+                       div(style = 'overflow-x: scroll; ',
+                           "Tiny Shiny App to analyse Facebook messages. Still hoping to work on sentiment analysis, response time analysis, word networks (graphs), option to download as poster.")
+                   )
+            ),
+            column(width = 6, 
+                       #   class = "col-lg-offset-4 col-lg-4 col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10",
                           fileInput("file1", "Choose JSON File", accept = ".json", width = "100%")
                           )
                    ,
-                   column(width = 2, 
-                          dropdownButtonp(tags$h4("Control Outputs"), 
-                                          icon = icon("gear")), 
-                          dropdownButtonp(tags$h4("Control Outputs"), 
-                                          icon = icon("info"))
+            column(width = 3, 
+                          dropdownButton(tags$h4("Control Outputs"),
+                                         "Will add options to subset by sender, dates",
+                                         icon = icon("gear"), status = "info"), 
+                          dropdownButton(tags$h4("Control Outputs"),
+                                         "will add information about non-obvious text analysis decisions",
+                                         icon = icon("info"), status = "info")
                           )
-                   #)
-            ),
+                   ),
         fluidRow(
             column(width = 12,
-                   column(width = 4, highchartOutput("messages_sent_donutplot"))
+                   column(width = 4, highchartOutput("message_count_donutplot")), 
+                   column(width = 4, highchartOutput("word_count_donutplot")),
+                   column(width = 4, highchartOutput("avg_msg_length_barplot"))
                    )
             ),
         fluidRow(
-            column(width = 12,
-                   column(width = 9, highchartOutput("messages_over_time_lineplot"))
-                   )
+            column(width = 8, highchartOutput("msg_freq_over_time_lineplot")),
+            column(width = 4, highchartOutput("msg_freq_weekly_radialplot"))
+            
             ),
         fluidRow(
             column(width = 12,
@@ -85,59 +118,27 @@ ui <-
 
 server <- function(input, output) {
 
-    
+    # data in 
     messages_df <- reactive({
-        file <- input$file1
+        file <- input$file1 
         req(file)
-        # read the JSON file into a data frame
-        jsonlite::fromJSON(txt = file$datapath) %>% 
-            .["messages"] %>% 
-            as.data.frame() %>% 
-            as_tibble() %>% 
-            rename(sender = 1, timestamp_ms = 2, content = 3 ) %>% 
-            mutate(content  = iconv(content, from = 'UTF-8', to = 'ASCII//TRANSLIT')) %>% 
-            filter(!str_detect(content, "sent an attachment")) %>% 
-            filter(!str_detect(content, "missed a call from")) %>% 
-            filter(!str_detect(content, "missed a video call from")) %>% 
-            filter(!str_detect(content, "video chat ended")) %>% 
-            mutate(timestamp = ms_to_date(timestamp_ms))
+        jsonlite::fromJSON(txt = file$datapath) %>% json_list_to_clean_df()
         })
     
+    # analysis out
+    output$message_count_donutplot <- renderHighchart(messages_df() %>% message_count_donutplot())
     
-    output$messages_sent_donutplot <- renderHighchart(
-        
-        messages_df() %>% 
-            group_by(sender) %>% 
-            summarise(count = n()) %>% 
-            hchart("pie", hcaes(name = sender, y = count ), 
-                   innerSize = "40%", 
-                   showInLegend = TRUE, 
-                   dataLabels = list(enabled = FALSE)) %>% 
-            hc_title(text= 'Total number of texts sent')
-        
-        
-        
-    )
+    output$word_count_donutplot <- renderHighchart(messages_df() %>% word_count_donutplot())
     
-    output$messages_over_time_lineplot <- renderHighchart(
-        messages_df() %>% 
-        complete(timestamp = seq.Date(min(as.Date(timestamp)),
-                                      max(as.Date(timestamp)), 
-                                      by = "day")) %>% 
-        mutate(counter = if_else(is.na(sender), 0, 1 )) %>% 
-        mutate(period = as.Date(cut(.$timestamp, breaks = "month"))) %>% 
-        group_by(period) %>% 
-        summarise(n = sum(counter)) %>% 
-        arrange(period) %>% 
-        hchart("areaspline", hcaes(x = period, y = n), color = "pink") %>% 
-        hc_title(text= 'Number of messages sent in each month')
-            
-            )
+    output$avg_msg_length_barplot <- renderHighchart(messages_df() %>% avg_msg_length_barplot())
     
+    output$msg_freq_over_time_lineplot <- renderHighchart(messages_df() %>% msg_freq_over_time_lineplot())
     
-    output$top_words_barplot <- renderHighchart(top_words_plot(messages_df(), max_nb = 20)) 
+    output$msg_freq_weekly_radialplot <- renderHighchart(messages_df() %>% msg_freq_weekly_radialplot())
     
-    output$top_ngrams_barplot <- renderHighchart(top_ngrams_plot(messages_df(), max_nb = 20)) 
+    output$top_words_barplot <- renderHighchart(messages_df() %>% top_words_barplot(max_nb = 20)) 
+    
+    output$top_ngrams_barplot <- renderHighchart(messages_df() %>% top_ngrams_barplot(max_nb = 20)) 
     
     
     
