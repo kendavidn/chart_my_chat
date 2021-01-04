@@ -4,7 +4,7 @@ top_ngrams_barplot <- function(messages_df, max_nb = 20) {
   
   # max_nb = 20
   
-  count_grams <- function(df, slice_nb = 10, gram_no){ 
+  count_grams <- function(df, slice_nb = 15, gram_no){ 
     df %>% 
       split(.$sender) %>%
       map(.f = function(df) {
@@ -23,23 +23,24 @@ top_ngrams_barplot <- function(messages_df, max_nb = 20) {
       slice_max(n = slice_nb, order_by= n_total, with_ties = T)
   }  
   
-  bigrams <- messages_df %>% count_grams(gram_no = 2)
-  trigrams <- messages_df %>% count_grams(gram_no = 3)
-  tetragrams <- messages_df %>% count_grams(gram_no = 4)
-  pentagrams <- messages_df %>% count_grams(gram_no = 5)
+  bigrams <- messages_df %>% count_grams(gram_no = 2, slice_nb = 100)
+  trigrams <- messages_df %>% count_grams(gram_no = 3, slice_nb = 80)
+  tetragrams <- messages_df %>% count_grams(gram_no = 4, slice_nb = 60)
+  pentagrams <- messages_df %>% count_grams(gram_no = 5,  slice_nb = 20)
   
   
 gram_series_for_hc <- 
     bind_rows(bigrams, trigrams) %>% 
     bind_rows(tetragrams) %>% 
     bind_rows(pentagrams) %>% 
-    mutate(bigram = ifelse(str_count(gram, '\\w+') == 2, gram, NA )) %>% 
+    # create new columns indicating what type of ngram each gram is
+    mutate(bigram = ifelse(str_count(gram, '\\S+') == 2, gram, NA )) %>% 
     mutate(bigram_count = ifelse(!is.na(bigram), n, NA )) %>% 
-    mutate(trigram = ifelse(str_count(gram, '\\w+') == 3, gram, NA )) %>% 
+    mutate(trigram = ifelse(str_count(gram, '\\S+') == 3, gram, NA )) %>% 
     mutate(trigram_count = ifelse(!is.na(trigram), n, NA )) %>% 
-    mutate(tetragram = ifelse(str_count(gram, '\\w+') == 4, gram, NA )) %>% 
+    mutate(tetragram = ifelse(str_count(gram, '\\S+') == 4, gram, NA )) %>% 
     mutate(tetragram_count = ifelse(!is.na(tetragram), n, NA )) %>% 
-    mutate(pentagram = ifelse(str_count(gram, '\\w+') == 5, gram, NA )) %>% 
+    mutate(pentagram = ifelse(str_count(gram, '\\S+') == 5, gram, NA )) %>% 
     mutate(pentagram_count = ifelse(!is.na(pentagram), n, NA )) %T>% 
     {
       expand(., sender, gram) ->> permut
@@ -49,9 +50,31 @@ gram_series_for_hc <-
     # bunch together rows with the same gram
     group_by(sender) %>% arrange(gram, sender) %>% ungroup() %>% 
     drop_ngrams_with_higher_val_grams() %>%
-  # fill in missings in "n_total" column. 
-    group_by(gram) %>% mutate(n_total = first(na.omit(n_total))) %>% ungroup() %>%
-    # then take the top most common grams (grouped so you don't catch an n-gram for only one person)
+    # fill in missings in "n_total" column. 
+    group_by(gram) %>% mutate(n_total = first(na.omit(n_total))) %>% ungroup() %>% 
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #~  Drop ngrams where all words are stopwords ----
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    separate(gram, into = c(paste0("word", 1:5)), sep = " ") %>% 
+    mutate(word1stop = ifelse(word1 %in% stop_words$word, 1, 0), 
+           word2stop = ifelse(word2 %in% stop_words$word, 1, 0), 
+           word3stop = ifelse(word3 %in% stop_words$word, 1, 0), 
+           word4stop = ifelse(word4 %in% stop_words$word, 1, 0), 
+           word5stop = ifelse(word5 %in% stop_words$word, 1, 0)) %>% 
+    rowwise() %>% 
+    mutate(stop_sum = sum(word1stop, word2stop, word3stop, word4stop, word5stop)) %>% 
+    ungroup() %>% 
+    mutate(all_stop = NA, 
+           all_stop = ifelse(!is.na(bigram) & stop_sum == 2, "yes. drop", all_stop ), 
+           all_stop = ifelse(!is.na(trigram) & stop_sum == 3, "yes. drop", all_stop ), 
+           all_stop = ifelse(!is.na(tetragram) & stop_sum == 4, "yes. drop", all_stop ), 
+           all_stop = ifelse(!is.na(pentagram) & stop_sum == 5, "yes. drop", all_stop ), 
+           all_stop = replace_na(all_stop, "not all stopwords. keep")) %>% 
+    filter(all_stop == "not all stopwords. keep") %>% 
+    unite(col = gram, word1, word2, word3, word4, word5, na.rm = TRUE, sep = " ") %>% 
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #~  Reshape ----
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     pivot_wider(id_cols = c(gram, n_total), values_from = n,names_from = sender) %>%
     top_n_sample_ties(rank_column = n_total, nb_to_samp = max_nb) %>%
     # drop people who have no utterances from the final list
@@ -91,6 +114,12 @@ gram_series_for_hc <-
     hc_title(text= 'Phrases used most frequently')%>%
     hc_xAxis(list(categories=gram_series_for_hc[1] %>% pull() , labels=list(step= 1)))%>%
     hc_plotOptions(series=list(stacking= 'normal'))%>%
+    hc_legend(
+        align= 'right',
+        verticalAlign= 'top',
+        layout= 'vertical',
+        x= 0,
+        y= 100) %>%
     hc_series(", make_highchart_list_multiple_senders(senders), ")")
   
   plot <- eval(str2expression(final_expr_for_plot))
@@ -100,80 +129,5 @@ gram_series_for_hc <-
 }
 
 
-
-
-
-drop_ngrams_with_higher_val_grams <- function(gram_series_for_hc = gram_series_for_hc){
-  
-  # define function to be used loops
-  # function checks checks that the being-iterated-over string 
-  pull_max_matched_ngram <- function(df, string, select_col, pattern){
-    
-    count <- df %>% 
-      filter(str_detect(string = {{string}}, pattern = pattern)) %>% 
-      select({{select_col}}) %>% pull()
-    
-    if(length(count) == 0){
-      out <- 0
-    } else {
-      out <- max(count, na.rm = T)
-    }
-    return(out)
-  
-    }
-  
-  bigrams_to_keep <- c() 
-  
-  for (i in unique(na.omit(gram_series_for_hc$bigram))){
-    
-    bigram_count <- gram_series_for_hc %>% filter(bigram == i) %>% pull(bigram_count) %>% unique()
-    trigram_count <-  pull_max_matched_ngram(gram_series_for_hc, trigram, trigram_count, i)
-    tetragram_count <- pull_max_matched_ngram(gram_series_for_hc, tetragram, tetragram_count, i)
-    pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
-    
-    if(bigram_count > trigram_count * 1.8  & 
-       bigram_count > tetragram_count * (1.8 - 0.1) & 
-       bigram_count > pentagram_count * (1.8 - 0.2)  ){
-      bigrams_to_keep <- c(bigrams_to_keep, i)
-    }
-  }
-  
-  trigrams_to_keep <- c() 
-  for (i in unique(na.omit(gram_series_for_hc$trigram))){
-    
-    trigram_count <- gram_series_for_hc %>% filter(trigram == i) %>% pull(trigram_count) %>% unique()
-    tetragram_count <- pull_max_matched_ngram(gram_series_for_hc, tetragram, tetragram_count, i)
-    pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
-    
-    if(trigram_count > tetragram_count * (1.8 - 0.3 ) & 
-       trigram_count > pentagram_count * (1.8 - 0.4 )  ){
-      trigrams_to_keep <- c(trigrams_to_keep, i)
-    }
-  }
-  
-  # testfunction<- function(){
-  tetragrams_to_keep <- c() 
-  for (i in unique(na.omit(gram_series_for_hc$tetragram))){
-    
-    tetragram_count <- gram_series_for_hc %>% filter(tetragram == i) %>% pull(tetragram_count) %>% unique()
-    pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
-    
-    if(tetragram_count > pentagram_count * (1.8 - 0.5)  ){
-      tetragrams_to_keep <- c(tetragrams_to_keep, i)
-    }
-  }
-  # }
-  
-  out_df <-
-  gram_series_for_hc %>% 
-    filter(bigram %in% bigrams_to_keep | 
-             trigram %in% trigrams_to_keep |
-             tetragram %in% tetragrams_to_keep |
-             !is.na(pentagram))
-  
-  return(out_df)
-  
-}
-
-top_ngrams_plot(messages_df)
+#top_ngrams_barplot(messages_df)
 

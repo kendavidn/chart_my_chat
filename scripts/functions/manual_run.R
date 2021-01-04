@@ -31,8 +31,66 @@ source(here("scripts/functions.R"))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #~~ Convert JSON file to a data frame ---- 
+# messages_df <- 
+#   "/Users/kenwosu/Downloads/WhatsApp Chat with Krisana Messerli.txt" %>% 
+#   whatsapp_txt_to_clean_df()
+
 messages_df <- 
-  jsonlite::fromJSON(txt = here("data/message_1.json") ) %>% json_list_to_clean_df()
+  "/Users/kenwosu/Downloads/WhatsApp Chat with Esther Peev.txt" %>% 
+  whatsapp_txt_to_clean_df()
+
+
+options(highcharter.theme = hc_theme_hcrt())
+
+newtheme <- hc_theme_merge(
+  getOption("highcharter.theme"), 
+  hc_theme(chart = list(backgroundColor = "transparent"), 
+           colors = paletteer_d("ggsci::nrc_npg") %>% as.character() %>% str_sub(1,7))
+)
+
+options(highcharter.theme = newtheme)
+
+
+messages_df %>% 
+  complete(timestamp = seq.Date(min(as.Date(timestamp)),
+                                max(as.Date(timestamp)), 
+                                by = "day")) %>% 
+  mutate(counter = if_else(is.na(sender), 0, 1 )) %>% 
+  mutate(period = as.Date(cut(.$timestamp, breaks = "month"))) %>% 
+  group_by(period, sender) %>% 
+  summarise(n = sum(counter)) %>% 
+  filter(!is.na(sender)) %>% 
+  arrange(period) %>% 
+  hchart("areaspline", hcaes(x = period, y = n, group = sender, fill = sender), 
+         alpha = 0.3
+         ) %>% 
+  hc_plotOptions(series = list(fillOpacity = 0.2)) %>% 
+  hc_title(text= 'Number of messages sent in each month')
+
+
+
+  messages_df %>%
+  select(1:3, timestamp) %>% 
+  complete(timestamp = seq.Date(min(as.Date(timestamp)),
+                                max(as.Date(timestamp)), 
+                                by = "day")) %>% 
+  # some "messages" dont have senders. e.g. someone called
+  mutate(counter = if_else(is.na(sender), 0, 1 )) %>% 
+  mutate(day = as.Date(cut(.$timestamp, breaks = "day"))) %>% 
+  mutate(day_of_week = lubridate::wday(day,label = T)) %>% 
+  group_by(sender, day_of_week) %>% 
+  summarise(n = sum(counter)) %>% 
+  ungroup() %>% 
+  group_by(sender) %>% 
+  complete(day_of_week) %>% 
+  ungroup() %>% 
+  mutate(n = replace_na(n, 0)) %>% 
+  filter(!is.na(sender)) %>% 
+  hchart("area", hcaes(x = day_of_week, y = n, group = sender, fill = sender)         )%>%
+  hc_plotOptions(area = list(fillOpacity = 0.15)) %>%
+  hc_xAxis(title = list(text = "")) %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_title(text= 'Messages per day of the week')
 
 
 #~~  who sent more messages? ---- 

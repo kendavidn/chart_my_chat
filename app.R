@@ -8,25 +8,33 @@ p_load(char = c("DataExplorer",
                 "tidytext",
                 "gt",
                 "reactable",
+                "paletteer",
                 "ggthemes", 
                 "highcharter",
                 "shiny", 
                 "shinyWidgets",
                 "styler",
                 "shinydashboard",
+                "rwhatsapp",
+                "tools",
                 "tidyverse"
 ))
 
 
 
 
-options(highcharter.theme = hc_theme_elementary())
+options(highcharter.theme = hc_theme_hcrt())
 
 newtheme <- hc_theme_merge(
     getOption("highcharter.theme"), 
-    hc_theme(chart = list(backgroundColor = "transparent"))
-    )
-
+    hc_theme(chart = list(backgroundColor = "transparent"), 
+             colors = 
+                 c("#332859",
+                 (paletteer_d("ggsci::nrc_npg") %>% 
+                 as.character() %>% 
+                 str_sub(1,7))
+                 ))
+)
 options(highcharter.theme = newtheme)
 
 # hchart(cars, "scatter", hcaes(speed, dist))
@@ -37,6 +45,7 @@ options(highcharter.theme = newtheme)
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 source(here("scripts/functions/misc_functions.R"))
+source(here("scripts/functions/whatsapp_txt_to_clean_df.R"))
 source(here("scripts/functions/json_list_to_clean_df.R"))
 
 
@@ -82,7 +91,7 @@ ui <-
             ),
             column(width = 6, 
                        #   class = "col-lg-offset-4 col-lg-4 col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10",
-                          fileInput("file1", "Choose JSON File", accept = ".json", width = "100%")
+                          fileInput("file1", "Choose File", accept = c(".json", ".txt"), width = "100%")
                           )
                    ,
             column(width = 3, 
@@ -122,7 +131,13 @@ server <- function(input, output) {
     messages_df <- reactive({
         file <- input$file1 
         req(file)
-        jsonlite::fromJSON(txt = file$datapath) %>% json_list_to_clean_df()
+        
+        if (file_ext(file$datapath) == "txt"){
+            whatsapp_txt_to_clean_df(whatsapp_txt = file$datapath)
+            } else if (file_ext(file$datapath) == "json"){
+            jsonlite::fromJSON(txt = file$datapath) %>% 
+                json_list_to_clean_df()
+            }
         })
     
     # analysis out
@@ -136,9 +151,9 @@ server <- function(input, output) {
     
     output$msg_freq_weekly_radialplot <- renderHighchart(messages_df() %>% msg_freq_weekly_radialplot())
     
-    output$top_words_barplot <- renderHighchart(messages_df() %>% top_words_barplot(max_nb = 20)) 
+    output$top_words_barplot <- renderHighchart(messages_df() %>% top_words_barplot(max_nb = 30)) 
     
-    output$top_ngrams_barplot <- renderHighchart(messages_df() %>% top_ngrams_barplot(max_nb = 20)) 
+    output$top_ngrams_barplot <- renderHighchart(messages_df() %>% top_ngrams_barplot(max_nb = 30)) 
     
     
     

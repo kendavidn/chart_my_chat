@@ -65,6 +65,12 @@ top_words_barplot <- function(messages_df, max_nb = 20) {
     hc_title(text= 'Words used most frequently')%>%
     hc_xAxis(list(categories=word_series_for_hc[1] %>% pull() , labels=list(step= 1)))%>%
     hc_plotOptions(series=list(stacking= 'normal'))%>%
+    hc_legend(
+        align= 'right',
+        verticalAlign= 'top',
+        layout= 'vertical',
+        x= 0,
+        y= 100) %>%
     hc_series(", make_highchart_list_multiple_senders(senders), ")")
   
   plot <- eval(str2expression(final_expr_for_plot))

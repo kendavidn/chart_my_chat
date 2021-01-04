@@ -70,3 +70,81 @@ top_words_rank_for_hc <-   . %>%
   do(data = .$n) %>% 
   list_parse() 
 
+
+
+
+
+
+
+
+drop_ngrams_with_higher_val_grams <- function(gram_series_for_hc = gram_series_for_hc){
+  
+  # define function to be used loops
+  # function checks checks that the being-iterated-over string 
+  pull_max_matched_ngram <- function(df, string, select_col, pattern){
+    
+    count <- df %>% 
+      filter(str_detect(string = {{string}}, pattern = pattern)) %>% 
+      select({{select_col}}) %>% pull()
+    
+    if(length(count) == 0){
+      out <- 0
+    } else {
+      out <- max(count, na.rm = T)
+    }
+    return(out)
+    
+  }
+  
+  bigrams_to_keep <- c() 
+  
+  for (i in unique(na.omit(gram_series_for_hc$bigram))){
+    
+    bigram_count <- gram_series_for_hc %>% filter(bigram == i) %>% pull(bigram_count) %>% unique()
+    trigram_count <-  pull_max_matched_ngram(gram_series_for_hc, trigram, trigram_count, i)
+    tetragram_count <- pull_max_matched_ngram(gram_series_for_hc, tetragram, tetragram_count, i)
+    pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
+    
+    if(bigram_count > trigram_count * 1.8  & 
+       bigram_count > tetragram_count * (1.8 - 0.1) & 
+       bigram_count > pentagram_count * (1.8 - 0.2)  ){
+      bigrams_to_keep <- c(bigrams_to_keep, i)
+    }
+  }
+  
+  trigrams_to_keep <- c() 
+  for (i in unique(na.omit(gram_series_for_hc$trigram))){
+    
+    trigram_count <- gram_series_for_hc %>% filter(trigram == i) %>% pull(trigram_count) %>% unique()
+    tetragram_count <- pull_max_matched_ngram(gram_series_for_hc, tetragram, tetragram_count, i)
+    pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
+    
+    if(trigram_count > tetragram_count * (1.8 - 0.3 ) & 
+       trigram_count > pentagram_count * (1.8 - 0.4 )  ){
+      trigrams_to_keep <- c(trigrams_to_keep, i)
+    }
+  }
+  
+  # testfunction<- function(){
+  tetragrams_to_keep <- c() 
+  for (i in unique(na.omit(gram_series_for_hc$tetragram))){
+    
+    tetragram_count <- gram_series_for_hc %>% filter(tetragram == i) %>% pull(tetragram_count) %>% unique()
+    pentagram_count <- pull_max_matched_ngram(gram_series_for_hc, pentagram, pentagram_count, i)
+    
+    if(tetragram_count > pentagram_count * (1.8 - 0.5)  ){
+      tetragrams_to_keep <- c(tetragrams_to_keep, i)
+    }
+  }
+  # }
+  
+  out_df <-
+    gram_series_for_hc %>% 
+    filter(bigram %in% bigrams_to_keep | 
+             trigram %in% trigrams_to_keep |
+             tetragram %in% tetragrams_to_keep |
+             !is.na(pentagram))
+  
+  return(out_df)
+  
+}
