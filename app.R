@@ -1,27 +1,22 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~  Packages ----
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-library(pacman)
-p_load(char = c("DataExplorer", 
-                "jsonlite",
-                "here",
-                "tidytext",
-                "gt",
-                "reactable",
-                "paletteer",
-                "ggthemes", 
-                "highcharter",
-                "shiny", 
-                "shinyWidgets",
-                "styler",
-                "shinydashboard",
-                "rwhatsapp",
-                "tools",
-                "tidyverse"
-))
-
-
-
+library(jsonlite)
+library(here)
+library(tidytext)
+library(paletteer)
+library(highcharter)
+library(shiny)
+library(shinyWidgets)
+library(styler)
+library(shinydashboard)
+#
+#library(shinydashboardPlus)
+#
+library(rwhatsapp)
+library(tools)
+library(waiter)
+library(tidyverse)
 
 options(highcharter.theme = hc_theme_hcrt())
 
@@ -62,7 +57,6 @@ source(here("scripts/functions/msg_freq_over_time_lineplot.R"))
 source(here("scripts/functions/msg_freq_weekly_radialplot.R"))
 
 
-
 # top words and phrases
 source(here("scripts/functions/top_words_barplot.R"))
 source(here("scripts/functions/top_ngrams_barplot.R"))
@@ -72,13 +66,13 @@ source(here("scripts/functions/top_ngrams_barplot.R"))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-ui <-
-    dashboardPage(
-        
-    dashboardHeader(disable = TRUE, title = "Analyze your texts today at chartmychats.com", titleWidth = "95vh",
+ui <-dashboardPage(
+    header = dashboardHeader(disable = T, title = "Analyze your texts today at chartmychats.com", titleWidth = "95vh",
                     tags$li(class = "dropdown", tags$li(HTML("<a href='https://www.w3schools.com/' target= '_blank' >About</a>")))),
-    dashboardSidebar(disable = TRUE),
-    dashboardBody(
+    sidebar = dashboardSidebar(disable = T),
+    body = dashboardBody(
+        use_waiter(), # include dependencies
+        waiter_on_busy(),
         setBackgroundImage(
             src = "https://www.fonewalls.com/wp-content/uploads/Lavender-Gradient-Wallpaper.jpg", 
             shinydashboard = TRUE),
@@ -86,7 +80,15 @@ ui <-
             column(width = 3, 
                    box(width = NULL,
                        div(style = 'overflow-x: scroll; ',
-                           "Tiny Shiny App to analyse Facebook messages. Still hoping to work on sentiment analysis, response time analysis, word networks (graphs), option to download as poster.")
+                           HTML("<h2>Prototype Shiny App to analyse FB and Whatsapp messages.</h2> <br>
+                                Steps to export your messages:
+                           <a href='https://tinyurl.com/exportwhatsappchat' target= '_blank' >Whatsapp</a>
+                           or 
+                           <a href='https://tinyurl.com/exportfacebookchat' target= '_blank' >Facebook</a>.<br>
+                           Then upload a single conversation to the app.
+                           Note that this app does NOT store any of your information. 
+                           You can view all source code for the app on my <a href='https://github.com/kendavidn/chart_my_chat' target= '_blank' >github.</a>
+                           Got other module ideas! I'm at kendavidn@gmail.com"))
                    )
             ),
             column(width = 6, 

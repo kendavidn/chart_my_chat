@@ -1,0 +1,13 @@
+name: chart_my_chat
+title: chart_my_chat
+username:
+account: kendavidn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3478516
+bundleId: 5469471
+url: https://kendavidn.shinyapps.io/chart_my_chat/
+when: 1642185020.39808
+lastSyncTime: 1642185020.39809
+asMultiple: FALSE
+asStatic: FALSE
